@@ -36,7 +36,7 @@ c.execute("SELECT id FROM processed_trees WHERE dup_status IS 'S' AND excludedRe
 
 ids_other += list(map(lambda a: a["id"], c.fetchall()))
 
-c.execute("SELECT id FROM processed_trees WHERE dup_status IS 'D' AND excludedReason IS NULL AND proxy_rate IS NOT NULL AND proxy_rate <= :cutoff", { "cutoff": cutoff })
+c.execute("SELECT id FROM processed_trees WHERE dup_status IS 'D' AND excludedReason IS NULL AND proxy_rate IS NOT NULL", { "cutoff": cutoff })
 
 ids_other += list(map(lambda a: a["id"], c.fetchall()))
 
@@ -48,7 +48,7 @@ with open("../neopTranslations_forOrthofinder/DSUZ.longest_only.faa") as file:
   while True:
     (header, gene) = (file.readline().strip(), file.readline().strip())
 
-    if gene == None or header == "":
+    if header == None or header == "":
       break
 
     # header validation
