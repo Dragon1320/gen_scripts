@@ -198,7 +198,7 @@ for blastFile in blastFiles:
 for dbgene in results:
   for sp in results[dbgene]:
     if len(results[dbgene][sp]) == 0:
-      results[dbgene][sp] = 0
+      results[dbgene][sp] = "0"
     else:
       results[dbgene][sp] = str(float(reduce(lambda a, b: str(float(a) + float(b)), results[dbgene][sp], "0")) / len(results[dbgene][sp]))
 
@@ -214,4 +214,4 @@ missingKeys = list(set(missingKeys))
 print(missingKeys, len(missingKeys))
 
 # questions:
-# missing gene ids
+# missing gene ids (28)
