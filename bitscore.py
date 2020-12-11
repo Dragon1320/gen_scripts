@@ -9,7 +9,7 @@ kDbPath = "../drosophilaDatabase_neop"
 orthogroupPath = "../Results_Jun25/WorkingDirectory/OrthoFinder/Results_Aug27/Orthogroups/Orthogroups.txt"
 speciesIdsPath = "../Results_Jun25/WorkingDirectory/OrthoFinder/Results_Aug27/WorkingDirectory/SpeciesIDs.txt"
 sequenceIdsPath = "../Results_Jun25/WorkingDirectory/OrthoFinder/Results_Aug27/WorkingDirectory/SequenceIDs.txt"
-blastFolderPath = "./blast"
+blastFolderPath = "./blast_bit"
 
 focalSpeciesName = "DSUZ.longest_only.faa"
 
@@ -128,7 +128,7 @@ focalSpeciesId = speciesNamesToIds.get(focalSpeciesName)
 
 # load gene name id mappings for genes of interest
 # WHERE dup_status IS 'S'?
-c.execute("SELECT id FROM processed_trees")
+c.execute("SELECT id FROM processed_trees WHERE (dup_status IS 'S' OR dup_status IS 'D') AND excludedReason IS NULL")
 dbGeneNames = list(map(lambda gene: gene["id"], c.fetchall()))
 
 focalSpeciesOrthologs = find_orthologs(orthogroupPath, dbGeneNames)
@@ -145,6 +145,9 @@ blastFiles = [f for f in listdir(blastFolderPath) if isfile(join(blastFolderPath
 
 # ugh
 results = dict(zip(dbGeneNames, list(map(lambda db_gene: { k: [] for k in species }, dbGeneNames))))
+
+# debug
+missingKeys = []
 
 for blastFile in blastFiles:
   with open("{}/{}".format(blastFolderPath, blastFile)) as file:
@@ -182,6 +185,9 @@ for blastFile in blastFiles:
       for geneName in focalSpeciesGeneOrthologs:
         if geneName in sequenceNamesToIds.keys():
           focalSpeciesGeneOrthologIds.append(sequenceNamesToIds[geneName])
+        else:
+          # print("missing key: {}".format(geneName))
+          missingKeys.append(geneName)
 
       # only check line if one of orthologs
       if "{}_{}".format(compSpeciesId, compSpeciesGeneId) in focalSpeciesGeneOrthologIds:
@@ -191,15 +197,21 @@ for blastFile in blastFiles:
 
 for dbgene in results:
   for sp in results[dbgene]:
-    results[dbgene][sp] = reduce(lambda a, b: str(float(a) + float(b)), results[dbgene][sp], "0") / len(results[dbgene][sp])
+    if len(results[dbgene][sp]) == 0:
+      results[dbgene][sp] = 0
+    else:
+      results[dbgene][sp] = str(float(reduce(lambda a, b: str(float(a) + float(b)), results[dbgene][sp], "0")) / len(results[dbgene][sp]))
 
 outFile = open(outFile, "w+")
-outFile.write("{}\t{}\n".format("None", "\t".join(species)))
+outFile.write("{}\t{}\n".format("None", "\t".join(list(map(lambda sp: sp[:(sp.find("."))], species)))))
 
 for dbgene in results:
   outFile.write("{}\t{}\n".format(dbgene, "\t".join(results[dbgene].values())))
 
 outFile.close()
+
+missingKeys = list(set(missingKeys))
+print(missingKeys, len(missingKeys))
 
 # questions:
 # missing gene ids

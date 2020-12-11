@@ -12,7 +12,7 @@ focalSpeciesFastaFile = "../neopTranslations_forOrthofinder/DSUZ.longest_only.fa
 c = get_db_cursor(kDbPath)
 
 # script
-c.execute("SELECT id FROM processed_trees WHERE dup_status IS 'S'")
+c.execute("SELECT id FROM processed_trees WHERE (dup_status IS 'S' OR dup_status IS 'D') AND excludedReason IS NULL")
 
 focalSpeciesGenes = list(map(lambda entry: entry["id"], c.fetchall()))
 

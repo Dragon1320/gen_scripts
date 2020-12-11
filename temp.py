@@ -1,6 +1,10 @@
+from os import listdir
+from os.path import isfile, join
+
 # const
 blastFile = "../../blast"
 orthogroupPath = "../Results_Jun25/WorkingDirectory/OrthoFinder/Results_Aug27/Orthogroups/Orthogroups.txt"
+orthogroupSeqPath = "../Results_Jun25/WorkingDirectory/OrthoFinder/Results_Aug27/Orthogroup_Sequences"
 
 species = [
   "AALB",
@@ -101,16 +105,84 @@ def find_orthologs(path, genes):
 
   return res
 
-genes = list(read_dict(blastFile, "\t").keys());
+blast = read_dict(blastFile, "\t")
+
+genes = list(set(blast.keys()))
 
 orthogorups = find_orthologs(orthogroupPath, genes)
 
-for gene in orthogorups:
-  orthogroup = list(set(map(lambda gene: gene[(gene.rfind("|") + 1):], orthogorups[gene])))
+# all the DMEL genes that have orthologs in all other species 
+ortho_genes = []
 
-  if len(species) != len(orthogroup):
+for gk in orthogorups:
+  orthogroup_species_list = list(set(map(lambda gene: gene[(gene.rfind("|") + 1):], orthogorups[gk])))
+
+  if len(species) != len(orthogroup_species_list):
     continue
 
-  print(gene)
+  ortho_genes.append(gk)
+
+busco = []
+for k, v in blast.items():
+  if k not in ortho_genes:
+    continue
+
+  bg = v[:(v.find("\t"))]
+
+  busco.append(bg)
+
+busco = list(set(busco))
+
+print(len(genes), len(ortho_genes), len(busco))
+
+# print(ortho_genes[0])
+
+# genes = {}
+# for bg in busco:
+#   for k, v in blast.items():
+#     bg = line[:(line.find("\t"))]
+
+#     if genes[bg] is None:
+#       genes[bg] = []
+
+#     genes[]
+
+# print(busco, len(busco))
+
+# exit(-1)
+
+# print(len(genes))
+
+
+
+
+
+
+
+
 
 # print(orthologs[genes[0]])
+
+# orthogroup_ids = []
+
+# orthogroup_file = read_dict(orthogroupPath, ":")
+
+# for k in orthogroup_file.keys():
+#   for g in genes:
+#     if g not in orthogroup_file[k]:
+#       continue
+
+#     orthogroup_ids.append(k)
+
+# print(len(orthogroup_ids))
+
+# print(orthogroup_ids)
+
+# get all seq files
+# orthogroupSeqFiles = [f for f in listdir(orthogroupSeqPath) if isfile(join(orthogroupSeqPath, f)) and f.split(".fa")[0] in orthogroup_ids]
+
+# fasta_file_paths = []
+
+# for f in listdir(orthogroupSeqPath):
+#   if isfile(join(orthogroupSeqPath, f)) and f.split(".fa")[0] in orthogroup_ids:
+#     fasta_file_paths.append(join(orthogroupSeqPath, f))
