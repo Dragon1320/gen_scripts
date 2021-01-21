@@ -40,6 +40,8 @@ c.execute("SELECT id FROM processed_trees WHERE dup_status IS 'D' AND excludedRe
 
 ids_other += list(map(lambda a: a["id"], c.fetchall()))
 
+#print(ids_other)
+
 # look for ids and calc lengths
 lengths = []
 lengths_other = []

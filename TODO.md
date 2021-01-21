@@ -78,7 +78,7 @@ PROCEDURE:
 	- get orthologs for each gene
 	- check all blast files for gene vs ortholog bitscore
 	- if multiple orthologs for gene in x species, take avg
-- lengths:
+- dists:
 	- reciprocal best hits eukaryota vs DMEL
 	- in those DMEL genes, reciprocal best hits vs all other sp
 	- take only genes where there is an ortholog found in all sp (by method above)
@@ -90,3 +90,57 @@ GOALS:
 - fix any issues
 - run absense
 - analyse le data
+
+TODO:
+- how to analyse the data
+-	adapt for paralogs
+
+---
+
+QUESTIONS:
+- is it fine lol
+- stuff from last week?
+- are we trying other focal species?
+	- can easily clean up my scripts to automate that
+	- will need to essentially redo what was done for the db tho
+- a bit on displaying the data
+
+THOUGHTS:
+- interesting res.png - homolog detection failure possible explanation - how likely? - look at what the paper was trying to prove again!
+- i guess if we used DMEL as the focal species, wed be able to examine the really tr genes
+- the absense scripts rly dont look too bad, only a couple 100 loc
+- i def need to have more of a think about the data and look through it
+
+---
+
+NEW:
+- clean up repo + document stuff
+- detection failure vs lineage restriction
+
+TODO:
+- blast agaionst itserlf for fast ev singletons
+- characterise gene functions for singletons
+- functional profile of singletons - similar to duplicable genes?
+	- gprofiler - need to play around with gene ids - might need flybase ids?
+	- melanogaster orghologs
+	- muiltiple test6iong correction: false discovery rate (less strict than bonferroni - lil strict for func enrichment)
+	- fastr evol, other ones, duplicable ones - background: all genes (in genome)
+	- significant depletions (opt?)
+
+
+
+
+
+
+
+
+
+---
+
+ref: https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/
+
+- is what i did for trg correct? stats? - need more specifics!
+- eval cutoff - saw e = 0.1 in papers (https://academic.oup.com/mbe/article/35/1/107/4554431#113623311)
+- 'CFastaReader: Hyphens are invalid and will be ignored around line 12318' error again
+
+
