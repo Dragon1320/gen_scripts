@@ -1,6 +1,6 @@
 hits = {}
 
-with open("../dmel_self") as f:
+with open("../dsuz_self_01") as f:
   # pos = None
 
   while True:
@@ -21,8 +21,39 @@ flat = [item for sublist in single for item in sublist]
 
 print(len(flat))
 
-with open("./blast_sin_0001", "w+") as f:
+with open("./blast_sin_dsuz_01", "w+") as f:
   for g in flat:
+    # gid = g[:(g.find("|"))]
+
+    f.write("{}\n".format(g))
+
+###
+orthogroupPath = "../Results_Jun25/WorkingDirectory/OrthoFinder/Results_Aug27/Orthogroups/Orthogroups.txt"
+
+def find_dmel_orthologs(path, genes):
+  res = []
+
+  with open(path) as file:
+    while True:
+      line = file.readline()
+
+      if line == "":
+        break
+
+      orthogroup = line[(line.find(":") + 1):].strip().split(" ")
+
+      for gene in genes:
+        if gene in orthogroup:
+          for orth_gene in orthogroup:
+            if orth_gene[-4:] == "DMEL":
+              res.append(orth_gene)
+
+  return res
+
+orth = find_dmel_orthologs(orthogroupPath, flat)
+
+with open("./blast_sin_dsuz_orth_01", "w+") as f:
+  for g in orth:
     gid = g[:(g.find("|"))]
 
     f.write("{}\n".format(gid))

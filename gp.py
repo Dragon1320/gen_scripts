@@ -22,7 +22,7 @@ with open("../neopTranslations_forOrthofinder/DMEL.longest_only.faa") as f:
 #
 fastevol = []
 
-with open("./blast_sin_0001") as f:
+with open("./blast_sin_01") as f:
   while True:
     l = f.readline().strip()
 
@@ -32,16 +32,16 @@ with open("./blast_sin_0001") as f:
     fastevol.append(l)
 
 #
-# other = []
+other = []
 
-# for bg in background:
-#   if bg not in fastevol:
-#     other.append(bg)
+for bg in background:
+  if bg not in fastevol:
+    other.append(bg)
 
 #
 gp = GProfiler(return_dataframe=True)
 
-res = gp.profile(
+res1 = gp.profile(
   query = {
     "fastevol": fastevol,
     # "other": other,
@@ -61,6 +61,28 @@ res = gp.profile(
   background = background,
 )
 
-res.to_csv("out.csv")
+res1.to_csv("./out/gprofiler_fastevol.csv")
+print(res1)
 
-print(res)
+res2 = gp.profile(
+  query = {
+    # "fastevol": fastevol,
+    "other": other,
+  },
+  organism = "dmelanogaster",
+  sources = ["GO:MF", "GO:CC", "GO:BP", "KEGG", "REAC", "WP"],
+  user_threshold = 0.05,
+  all_results = False,
+  ordered = False,
+  no_evidences = True,
+  combined = False,
+  measure_underrepresentation = True,
+  no_iea = False,
+  domain_scope = "annotated",
+  numeric_namespace = "ENTREZGENE",
+  significance_threshold_method = "fdr",
+  background = background,
+)
+
+res2.to_csv("./out/gprofiler_other_ur.csv")
+print(res2)
