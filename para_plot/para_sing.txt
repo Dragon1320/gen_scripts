@@ -1,0 +1,1000 @@
+LOC108010143|XP_016930469.1|DSUZ	0.0001	
+LOC108007841|XP_016927128.1|DSUZ	0.0001	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108021358|XP_016945533.1|DSUZ	0.0001	
+LOC108008045|XP_016927321.1|DSUZ	0.0001	
+LOC108007722|XP_016926966.1|DSUZ	0.0001	DOBS.longest_only.faa	DGRI.longest_only.faa
+LOC108015953|XP_016938035.1|DSUZ	0.0001	AGAM.longest_only.faa	DRHO.longest_only.faa
+LOC108008056|XP_016927330.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108021232|XP_016945327.1|DSUZ	0.0001	DSER.longest_only.faa	DRHO.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108013604|XP_016935034.1|DSUZ	0.0001	DPLE.longest_only.faa	AGAM.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa
+LOC108010682|XP_016931083.1|DSUZ	0.0001	DPER.longest_only.faa	SLEB.longest_only.faa
+LOC108010191|XP_016930527.1|DSUZ	0.0001	DRHO.longest_only.faa
+LOC108021551|XP_016945811.1|DSUZ	0.0001	CSOL.longest_only.faa	DPLE.longest_only.faa
+LOC108021091|XP_016945103.1|DSUZ	0.0001	PXUT.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DPER.longest_only.faa
+LOC108011242|XP_016931838.1|DSUZ	0.0001	
+LOC108012472|XP_016933357.1|DSUZ	0.0001	
+LOC108004973|XP_016923615.1|DSUZ	0.0001	
+LOC108004665|XP_016923135.1|DSUZ	0.0001	MSAC.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021093|XP_016945106.1|DSUZ	0.0001	PXUT.longest_only.faa	DPER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DGRI.longest_only.faa	TRNI.longest_only.faa
+LOC108020395|XP_016944160.1|DSUZ	0.0001	DSEC.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	AALB.longest_only.faa	DRHO.longest_only.faa	DKIK.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108019388|XP_016942705.1|DSUZ	0.0001	PPOL.longest_only.faa	DGRI.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	DVIR.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	DNOV.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa
+LOC108009976|XP_016930240.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108021256|XP_016945364.1|DSUZ	0.0001	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108019009|XP_016942114.1|DSUZ	0.0001	
+LOC108018143|XP_016941095.1|DSUZ	0.0001	DBIP.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108018971|XP_016942066.1|DSUZ	0.0001	
+LOC108006627|XP_016925648.1|DSUZ	0.0001	DNAV.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DGRI.longest_only.faa	DWIL.longest_only.faa	DMOJ.longest_only.faa	DNOV.longest_only.faa
+LOC108018118|XP_016941043.1|DSUZ	0.0001	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa
+LOC108005009|XP_016923636.1|DSUZ	0.0001	
+LOC108021519|XP_016945765.1|DSUZ	0.0001	DGRI.longest_only.faa
+LOC108012285|XP_016933079.1|DSUZ	0.0001	TCAS.longest_only.faa
+LOC108021506|XP_016945748.1|DSUZ	0.0001	PXUT.longest_only.faa	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DMOJ.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021666|XP_016945970.1|DSUZ	0.0001	DWIL.longest_only.faa
+LOC108009512|XP_016929424.1|DSUZ	0.0001	
+LOC108020892|XP_016944791.1|DSUZ	0.0001	PXUT.longest_only.faa	NVIT.longest_only.faa
+LOC108016756|XP_016938996.1|DSUZ	0.0001	AALB.longest_only.faa	MSAC.longest_only.faa
+LOC108021507|XP_016945749.1|DSUZ	0.0001	DRHO.longest_only.faa	AALB.longest_only.faa	SLEB.longest_only.faa
+LOC108005081|XP_016923741.1|DSUZ	0.0001	DRHO.longest_only.faa	DGRI.longest_only.faa
+LOC108016736|XP_016938965.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108005078|XP_016923726.1|DSUZ	0.0001	DGRI.longest_only.faa
+LOC108021496|XP_016945728.1|DSUZ	0.0001	DWIL.longest_only.faa	DPER.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa
+LOC108005885|XP_016924760.1|DSUZ	0.0001	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108005089|XP_016923753.1|DSUZ	0.0001	DGRI.longest_only.faa
+LOC108021150|XP_016945210.1|DSUZ	0.0001	PPOL.longest_only.faa	DKIK.longest_only.faa	DPLE.longest_only.faa
+LOC108014220|XP_016935744.1|DSUZ	0.0001	
+LOC108021472|XP_016945700.1|DSUZ	0.0001	DBIP.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	ACEP.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa	TRNI.longest_only.faa	DYAK.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DMEL.longest_only.faa	CNAS.longest_only.faa	DGRI.longest_only.faa	DNOV.longest_only.faa	DNAV.longest_only.faa	PXUT.longest_only.faa	DTAK.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	PPOL.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DARI.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108014164|XP_016935691.1|DSUZ	0.0001	DMIR.longest_only.faa	NVIT.longest_only.faa
+LOC108021339|XP_016945505.1|DSUZ	0.0001	PPOL.longest_only.faa	PXUT.longest_only.faa	MSAC.longest_only.faa	TRNI.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AMEL.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa
+LOC108006895|XP_016925975.1|DSUZ	0.0001	DNAV.longest_only.faa	PXUT.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DGRI.longest_only.faa	ACEP.longest_only.faa	DNOV.longest_only.faa	DMOJ.longest_only.faa
+LOC108021707|XP_016946030.1|DSUZ	0.0001	DGRI.longest_only.faa
+LOC108011113|XP_016931677.1|DSUZ	0.0001	DTAK.longest_only.faa
+LOC108014175|XP_016935702.1|DSUZ	0.0001	
+LOC108009943|XP_016930180.1|DSUZ	0.0001	DRHO.longest_only.faa	DTAK.longest_only.faa	AALB.longest_only.faa
+LOC108021142|XP_016945194.1|DSUZ	0.0001	DERE.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DPSE.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa
+LOC108021532|XP_016945783.1|DSUZ	0.0001	DERE.longest_only.faa	DSER.longest_only.faa	AGAM.longest_only.faa	MPHA.longest_only.faa	HKAH.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	CNAS.longest_only.faa
+LOC108014227|XP_016935754.1|DSUZ	0.0001	
+LOC108020987|XP_016944934.1|DSUZ	0.0001	DTAK.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DMIR.longest_only.faa
+LOC108016483|XP_016938638.1|DSUZ	0.0001	DERE.longest_only.faa	DSER.longest_only.faa
+LOC108017683|XP_016940284.1|DSUZ	0.0001	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108020958|XP_016944894.1|DSUZ	0.0001	AALB.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa
+LOC108005421|XP_016924191.1|DSUZ	0.0001	
+LOC108021372|XP_016945552.1|DSUZ	0.0001	
+LOC108021463|XP_016945682.1|DSUZ	0.0001	DTAK.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	CSOL.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DWIL.longest_only.faa	NVIT.longest_only.faa
+LOC108021011|XP_016944983.1|DSUZ	0.0001	AALB.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108021245|XP_016945350.1|DSUZ	0.0001	AALB.longest_only.faa	BTAB.longest_only.faa	HKAH.longest_only.faa
+LOC108021371|XP_016945551.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108021006|XP_016944970.1|DSUZ	0.0001	
+LOC108021411|XP_016945607.1|DSUZ	0.0001	MSAC.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	TRNI.longest_only.faa
+LOC108007981|XP_016927252.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108005615|XP_016924417.1|DSUZ	0.0001	MSAC.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108004636|XP_016923077.1|DSUZ	0.0001	HKAH.longest_only.faa	DOBS.longest_only.faa
+LOC108021230|XP_016945325.1|DSUZ	0.0001	AGAM.longest_only.faa
+LOC108009894|XP_016930106.1|DSUZ	0.0001	AALB.longest_only.faa	CNAS.longest_only.faa
+LOC108021559|XP_016945818.1|DSUZ	0.0001	
+LOC108020992|XP_016944942.1|DSUZ	0.0001	DOBS.longest_only.faa
+LOC108021231|XP_016945326.1|DSUZ	0.0001	
+LOC108018950|XP_016942045.1|DSUZ	0.0001	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108005698|XP_016924517.1|DSUZ	0.0001	HKAH.longest_only.faa	NVIT.longest_only.faa
+LOC108020749|XP_016944618.1|DSUZ	0.0001	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021248|XP_016945355.1|DSUZ	0.0001	
+LOC108008423|XP_016927763.1|DSUZ	0.0001	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108017003|XP_016939447.1|DSUZ	0.0001	
+LOC108009038|XP_016928512.1|DSUZ	0.0001	TRNI.longest_only.faa
+LOC108005715|XP_016924536.1|DSUZ	0.0001	AALB.longest_only.faa	DSER.longest_only.faa	TRNI.longest_only.faa
+LOC108020303|XP_016943926.1|DSUZ	0.0001	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa
+LOC108019425|XP_016942739.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108005517|XP_016924304.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108017011|XP_016939458.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108021296|XP_016945432.1|DSUZ	0.0001	DSER.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa	NVIT.longest_only.faa
+LOC108021652|XP_016945957.1|DSUZ	0.0001	
+LOC108021210|XP_016945298.1|DSUZ	0.0001	
+LOC108010321|XP_016930721.1|DSUZ	0.0001	DRHO.longest_only.faa	DPSE.longest_only.faa
+LOC108021467|XP_016945688.1|DSUZ	0.0001	
+LOC108021352|XP_016945525.1|DSUZ	0.0001	
+LOC108017723|XP_016940325.1|DSUZ	0.0001	
+LOC108006420|XP_016925436.1|DSUZ	0.0001	AALB.longest_only.faa	BMOR.longest_only.faa	SLEB.longest_only.faa
+LOC108016551|XP_016938717.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108021725|XP_016946049.1|DSUZ	0.0001	
+LOC108021081|XP_016945087.1|DSUZ	0.0001	MSAC.longest_only.faa	DGRI.longest_only.faa
+LOC108021413|XP_016945614.1|DSUZ	0.0001	
+LOC108021726|XP_016946051.1|DSUZ	0.0001	OBIR.longest_only.faa	SLEB.longest_only.faa
+LOC108007647|XP_016926861.1|DSUZ	0.0001	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108009008|XP_016928501.1|DSUZ	0.0001	
+LOC108011025|XP_016931549.1|DSUZ	0.0001	
+LOC108012845|XP_016933803.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108021125|XP_016945170.1|DSUZ	0.0001	DSEC.longest_only.faa
+LOC108021224|XP_016945312.1|DSUZ	0.0001	AALB.longest_only.faa	DWIL.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa
+LOC108021124|XP_016945169.1|DSUZ	0.0001	DWIL.longest_only.faa	DSEC.longest_only.faa
+LOC108021176|XP_016945247.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108006858|XP_016925917.1|DSUZ	0.0001	AALB.longest_only.faa	PXUT.longest_only.faa	DSER.longest_only.faa
+LOC108021493|XP_016945730.1|DSUZ	0.0001	
+LOC108021226|XP_016945314.1|DSUZ	0.0001	AALB.longest_only.faa	HKAH.longest_only.faa	DRHO.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108021286|XP_016945414.1|DSUZ	0.0001	AALB.longest_only.faa	DWIL.longest_only.faa	DSER.longest_only.faa	NVIT.longest_only.faa
+LOC108009756|XP_016929866.1|DSUZ	0.0001	DPER.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	MSAC.longest_only.faa
+LOC108006926|XP_016926021.1|DSUZ	0.0001	DELE.longest_only.faa	DKIK.longest_only.faa
+LOC108021329|XP_016945488.1|DSUZ	0.0001	DGRI.longest_only.faa
+LOC108020961|XP_016944896.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108018075|XP_016940969.1|DSUZ	0.0001	AALB.longest_only.faa	DOBS.longest_only.faa	GMEL.longest_only.faa
+LOC108011570|XP_016932232.1|DSUZ	0.0001	
+LOC108006912|XP_016926001.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108020959|XP_016944893.1|DSUZ	0.0001	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	SLEB.longest_only.faa	GMEL.longest_only.faa	OBIR.longest_only.faa	TRNI.longest_only.faa
+LOC108009355|XP_016929147.1|DSUZ	0.0001	DBIP.longest_only.faa
+LOC108021009|XP_016944975.1|DSUZ	0.0001	DBIP.longest_only.faa	DPER.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	DGRI.longest_only.faa	DEUG.longest_only.faa	TRNI.longest_only.faa
+LOC108009436|XP_016929266.1|DSUZ	0.0001	PPOL.longest_only.faa	DBIP.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021014|XP_016944982.1|DSUZ	0.0001	DTAK.longest_only.faa	DELE.longest_only.faa	AALB.longest_only.faa	CNAS.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108021397|XP_016945586.1|DSUZ	0.0001	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108005606|XP_016924407.1|DSUZ	0.0001	AALB.longest_only.faa	BTAB.longest_only.faa	DPER.longest_only.faa
+LOC108006725|XP_016925760.1|DSUZ	0.0001	
+LOC108006187|XP_016925116.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108008452|XP_016927798.1|DSUZ	0.0001	
+LOC108010022|XP_016930312.1|DSUZ	0.0001	DSER.longest_only.faa
+LOC108011896|XP_016932638.1|DSUZ	0.0001	
+LOC108021697|XP_016946013.1|DSUZ	0.0001	
+LOC108021203|XP_016945292.1|DSUZ	0.0001	
+LOC108006705|XP_016925737.1|DSUZ	0.0001	
+LOC108021732|XP_016946059.1|DSUZ	0.0001	DPSE.longest_only.faa
+LOC108005409|XP_016924203.1|DSUZ	0.0001	DRHO.longest_only.faa	DBIP.longest_only.faa	DYAK.longest_only.faa
+LOC108006120|XP_016925061.1|DSUZ	0.0001	HKAH.longest_only.faa
+LOC108021196|XP_016945278.1|DSUZ	0.0001	
+LOC108021731|XP_016946058.1|DSUZ	0.0001	DANA.longest_only.faa
+LOC108021163|XP_016945233.1|DSUZ	0.0001	
+LOC108021393|XP_016945579.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108007103|XP_016926231.1|DSUZ	0.0001	AALB.longest_only.faa	DANA.longest_only.faa	MSAC.longest_only.faa
+LOC108021043|XP_016945027.1|DSUZ	0.0001	AALB.longest_only.faa	DWIL.longest_only.faa
+LOC108013151|XP_016934334.1|DSUZ	0.0001	
+LOC108012884|XP_016933868.1|DSUZ	0.0001	
+LOC108009999|XP_016930278.1|DSUZ	0.0001	
+LOC108010447|XP_016930800.1|DSUZ	0.0001	
+LOC108017279|XP_016939788.1|DSUZ	0.0001	DANA.longest_only.faa
+LOC108021400|XP_016945592.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108010915|XP_016931407.1|DSUZ	0.0001	DRHO.longest_only.faa	DMIR.longest_only.faa	DOBS.longest_only.faa
+LOC108021645|XP_016945944.1|DSUZ	0.0001	BTER.longest_only.faa	MPHA.longest_only.faa	AMEL.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108010954|XP_016931457.1|DSUZ	0.0001	
+LOC108008153|XP_016927434.1|DSUZ	0.0001	DWIL.longest_only.faa
+LOC108007638|XP_016926850.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108021220|XP_016945309.1|DSUZ	0.0001	DBIP.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	SLEB.longest_only.faa	DOBS.longest_only.faa	DYAK.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DKIK.longest_only.faa	DEUG.longest_only.faa
+LOC108009323|XP_016929086.1|DSUZ	0.0001	DSER.longest_only.faa	DGRI.longest_only.faa
+LOC108011330|XP_016931932.1|DSUZ	0.0001	
+LOC108014015|XP_016935515.1|DSUZ	0.0001	DMIR.longest_only.faa
+LOC108021447|XP_016945656.1|DSUZ	0.0001	DRHO.longest_only.faa	DGRI.longest_only.faa	AALB.longest_only.faa	DHYD.longest_only.faa
+LOC108005464|XP_016924252.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108012116|XP_016932892.1|DSUZ	0.0001	SLEB.longest_only.faa
+LOC108021639|XP_016945936.1|DSUZ	0.0001	MPHA.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	DGUA.longest_only.faa	DGRI.longest_only.faa	OBIR.longest_only.faa
+LOC108014688|XP_016936355.1|DSUZ	0.0001	
+LOC108021332|XP_016945492.1|DSUZ	0.0001	
+LOC108006441|XP_016925458.1|DSUZ	0.0001	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021441|XP_016945649.1|DSUZ	0.0001	PXUT.longest_only.faa	CNAS.longest_only.faa
+LOC108014616|XP_016936271.1|DSUZ	0.0001	AALB.longest_only.faa	BMOR.longest_only.faa	OBIR.longest_only.faa	BTAB.longest_only.faa
+LOC108021576|XP_016945847.1|DSUZ	0.0001	DKIK.longest_only.faa
+LOC108021346|XP_016945517.1|DSUZ	0.0001	PXUT.longest_only.faa
+LOC108006815|XP_016925855.1|DSUZ	0.0001	BTAB.longest_only.faa	DOBS.longest_only.faa
+LOC108014664|XP_016936318.1|DSUZ	0.0001	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108020379|XP_016944124.1|DSUZ	0.0001	
+LOC108021345|XP_016945520.1|DSUZ	0.0001	TRNI.longest_only.faa
+LOC108005364|XP_016924108.1|DSUZ	0.0001	PXUT.longest_only.faa	DOBS.longest_only.faa	CNAS.longest_only.faa
+LOC108019522|XP_016942843.1|DSUZ	0.0001	DBIP.longest_only.faa	DOBS.longest_only.faa	MSAC.longest_only.faa
+LOC108015134|XP_016936891.1|DSUZ	0.0001	DRHO.longest_only.faa	OBIR.longest_only.faa
+LOC108021156|XP_016945221.1|DSUZ	0.0001	DSEC.longest_only.faa	DTAK.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DBIA.longest_only.faa	DYAK.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DPSE.longest_only.faa	DMOJ.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108019067|XP_016942201.1|DSUZ	0.0001	
+LOC108011887|XP_016932626.1|DSUZ	0.0001	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa	DELE.longest_only.faa
+LOC108011079|XP_016931635.1|DSUZ	0.0001	
+LOC108021190|XP_016945267.1|DSUZ	0.0001	TRNI.longest_only.faa
+LOC108021410|XP_016945606.1|DSUZ	0.0001	PXUT.longest_only.faa	DOBS.longest_only.faa
+LOC108021268|XP_016945387.1|DSUZ	0.0001	
+LOC108020937|XP_016944858.1|DSUZ	0.0001	DNOV.longest_only.faa	TRNI.longest_only.faa
+LOC108021470|XP_016945697.1|DSUZ	0.0001	AGAM.longest_only.faa	DVIR.longest_only.faa	AALB.longest_only.faa	DSER.longest_only.faa
+LOC108021587|XP_016945865.1|DSUZ	0.0001	MSAC.longest_only.faa	CSOL.longest_only.faa	DHYD.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108020182|XP_016943779.1|DSUZ	0.0001	
+LOC108004689|XP_016923189.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108019745|XP_016943177.1|DSUZ	0.0001	
+LOC108021475|XP_016945705.1|DSUZ	0.0001	DVIR.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa
+LOC108010903|XP_016931387.1|DSUZ	0.0001	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa
+LOC108015953|XP_016938035.1|DSUZ	0.00775	AGAM.longest_only.faa	DRHO.longest_only.faa
+LOC108021357|XP_016945530.1|DSUZ	0.0001	DSER.longest_only.faa
+LOC108013420|XP_016934774.1|DSUZ	0.0001	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108007467|XP_016926635.1|DSUZ	0.0001	AGAM.longest_only.faa	DSIM.longest_only.faa	AALB.longest_only.faa
+LOC108010143|XP_016930469.1|DSUZ	0.00775	
+LOC108021358|XP_016945533.1|DSUZ	0.00775	
+LOC108021344|XP_016945515.1|DSUZ	0.0001	MPHA.longest_only.faa
+LOC108013604|XP_016935034.1|DSUZ	0.00775	DPLE.longest_only.faa	AGAM.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa
+LOC108007722|XP_016926966.1|DSUZ	0.00775	DOBS.longest_only.faa	DGRI.longest_only.faa
+LOC108008045|XP_016927321.1|DSUZ	0.00775	
+LOC108015347|XP_016937249.1|DSUZ	0.0001	DRHO.longest_only.faa
+LOC108021232|XP_016945327.1|DSUZ	0.00775	DSER.longest_only.faa	DRHO.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108008056|XP_016927330.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108021091|XP_016945103.1|DSUZ	0.00775	PXUT.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DPER.longest_only.faa
+LOC108010682|XP_016931083.1|DSUZ	0.00775	DPER.longest_only.faa	SLEB.longest_only.faa
+LOC108021170|XP_016945240.1|DSUZ	0.0001	AALB.longest_only.faa	TRNI.longest_only.faa
+LOC108010191|XP_016930527.1|DSUZ	0.00775	DRHO.longest_only.faa
+LOC108021551|XP_016945811.1|DSUZ	0.00775	CSOL.longest_only.faa	DPLE.longest_only.faa
+LOC108011242|XP_016931838.1|DSUZ	0.00775	
+LOC108007569|XP_016926754.1|DSUZ	0.0001	PPOL.longest_only.faa	TRNI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108012472|XP_016933357.1|DSUZ	0.00775	
+LOC108021093|XP_016945106.1|DSUZ	0.00775	PXUT.longest_only.faa	DPER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DGRI.longest_only.faa	TRNI.longest_only.faa
+LOC108004973|XP_016923615.1|DSUZ	0.00775	
+LOC108021362|XP_016945541.1|DSUZ	0.0001	TRNI.longest_only.faa
+LOC108019009|XP_016942114.1|DSUZ	0.00775	
+LOC108020395|XP_016944160.1|DSUZ	0.00775	DSEC.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	AALB.longest_only.faa	DRHO.longest_only.faa	DKIK.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108019388|XP_016942705.1|DSUZ	0.00775	PPOL.longest_only.faa	DGRI.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	BMOR.longest_only.faa	DVIR.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	DNOV.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa
+LOC108018971|XP_016942066.1|DSUZ	0.00775	
+LOC108021256|XP_016945364.1|DSUZ	0.00775	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108017230|XP_016939719.1|DSUZ	0.0001	AALB.longest_only.faa
+LOC108006627|XP_016925648.1|DSUZ	0.00775	DNAV.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DGRI.longest_only.faa	DWIL.longest_only.faa	DMOJ.longest_only.faa	DNOV.longest_only.faa
+LOC108007841|XP_016927128.1|DSUZ	0.00775	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108012285|XP_016933079.1|DSUZ	0.00775	TCAS.longest_only.faa
+LOC108018118|XP_016941043.1|DSUZ	0.00775	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa
+LOC108021506|XP_016945748.1|DSUZ	0.00775	PXUT.longest_only.faa	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DMOJ.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108016756|XP_016938996.1|DSUZ	0.00775	AALB.longest_only.faa	MSAC.longest_only.faa
+LOC108021666|XP_016945970.1|DSUZ	0.00775	DWIL.longest_only.faa
+LOC108009512|XP_016929424.1|DSUZ	0.00775	
+LOC108016736|XP_016938965.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108021507|XP_016945749.1|DSUZ	0.00775	DRHO.longest_only.faa	AALB.longest_only.faa	SLEB.longest_only.faa
+LOC108005081|XP_016923741.1|DSUZ	0.00775	DRHO.longest_only.faa	DGRI.longest_only.faa
+LOC108005885|XP_016924760.1|DSUZ	0.00775	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108014220|XP_016935744.1|DSUZ	0.00775	
+LOC108005078|XP_016923726.1|DSUZ	0.00775	DGRI.longest_only.faa
+LOC108021496|XP_016945728.1|DSUZ	0.00775	DWIL.longest_only.faa	DPER.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa
+LOC108004665|XP_016923135.1|DSUZ	0.00775	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108014164|XP_016935691.1|DSUZ	0.00775	DMIR.longest_only.faa	NVIT.longest_only.faa
+LOC108005089|XP_016923753.1|DSUZ	0.00775	DGRI.longest_only.faa
+LOC108021150|XP_016945210.1|DSUZ	0.00775	PPOL.longest_only.faa	PXUT.longest_only.faa	DKIK.longest_only.faa	DPLE.longest_only.faa
+LOC108009976|XP_016930240.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108014175|XP_016935702.1|DSUZ	0.00775	
+LOC108018143|XP_016941095.1|DSUZ	0.00775	DBIP.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108006895|XP_016925975.1|DSUZ	0.00775	DNAV.longest_only.faa	PXUT.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DGRI.longest_only.faa	ACEP.longest_only.faa	DNOV.longest_only.faa	DMOJ.longest_only.faa
+LOC108021339|XP_016945505.1|DSUZ	0.00775	PPOL.longest_only.faa	PXUT.longest_only.faa	MSAC.longest_only.faa	TRNI.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AMEL.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa
+LOC108011113|XP_016931677.1|DSUZ	0.00775	DTAK.longest_only.faa
+LOC108014227|XP_016935754.1|DSUZ	0.00775	
+LOC108005009|XP_016923636.1|DSUZ	0.00775	
+LOC108009943|XP_016930180.1|DSUZ	0.00775	DRHO.longest_only.faa	DTAK.longest_only.faa	AALB.longest_only.faa
+LOC108021519|XP_016945765.1|DSUZ	0.00775	DGRI.longest_only.faa
+LOC108020958|XP_016944894.1|DSUZ	0.00775	AALB.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa
+LOC108021532|XP_016945783.1|DSUZ	0.00775	DERE.longest_only.faa	DSER.longest_only.faa	AGAM.longest_only.faa	MPHA.longest_only.faa	HKAH.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	CNAS.longest_only.faa
+LOC108020987|XP_016944934.1|DSUZ	0.00775	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DMIR.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108020892|XP_016944791.1|DSUZ	0.00775	PXUT.longest_only.faa	NVIT.longest_only.faa
+LOC108021011|XP_016944983.1|DSUZ	0.00775	AALB.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108016483|XP_016938638.1|DSUZ	0.00775	PPOL.longest_only.faa	DERE.longest_only.faa	DSER.longest_only.faa
+LOC108005421|XP_016924191.1|DSUZ	0.00775	
+LOC108021006|XP_016944970.1|DSUZ	0.00775	
+LOC108021372|XP_016945552.1|DSUZ	0.00775	
+LOC108021245|XP_016945350.1|DSUZ	0.00775	AALB.longest_only.faa	BTAB.longest_only.faa	HKAH.longest_only.faa
+LOC108004636|XP_016923077.1|DSUZ	0.00775	HKAH.longest_only.faa	DOBS.longest_only.faa
+LOC108021371|XP_016945551.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108007981|XP_016927252.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108020992|XP_016944942.1|DSUZ	0.00775	DOBS.longest_only.faa
+LOC108021472|XP_016945700.1|DSUZ	0.00775	DBIP.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	ACEP.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa	TRNI.longest_only.faa	DYAK.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DMEL.longest_only.faa	CNAS.longest_only.faa	DGRI.longest_only.faa	DNOV.longest_only.faa	DNAV.longest_only.faa	PXUT.longest_only.faa	DTAK.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	PPOL.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DARI.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108005615|XP_016924417.1|DSUZ	0.00775	MSAC.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108009894|XP_016930106.1|DSUZ	0.00775	AALB.longest_only.faa	CNAS.longest_only.faa
+LOC108020749|XP_016944618.1|DSUZ	0.00775	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021707|XP_016946030.1|DSUZ	0.00775	DGRI.longest_only.faa
+LOC108021559|XP_016945818.1|DSUZ	0.00775	
+LOC108018950|XP_016942045.1|DSUZ	0.00775	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108021142|XP_016945194.1|DSUZ	0.00775	DERE.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DPSE.longest_only.faa	CNAS.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108020303|XP_016943926.1|DSUZ	0.00775	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa
+LOC108021248|XP_016945355.1|DSUZ	0.00775	
+LOC108005698|XP_016924517.1|DSUZ	0.00775	HKAH.longest_only.faa	NVIT.longest_only.faa
+LOC108017003|XP_016939447.1|DSUZ	0.00775	
+LOC108021296|XP_016945432.1|DSUZ	0.00775	DSER.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa	NVIT.longest_only.faa
+LOC108005715|XP_016924536.1|DSUZ	0.00775	AALB.longest_only.faa	DSER.longest_only.faa	TRNI.longest_only.faa
+LOC108017683|XP_016940284.1|DSUZ	0.00775	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108010321|XP_016930721.1|DSUZ	0.00775	DRHO.longest_only.faa	DPSE.longest_only.faa
+LOC108017011|XP_016939458.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108019425|XP_016942739.1|DSUZ	0.00775	AALB.longest_only.faa	BTER.longest_only.faa
+LOC108021463|XP_016945682.1|DSUZ	0.00775	DTAK.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	CSOL.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DWIL.longest_only.faa	NVIT.longest_only.faa
+LOC108021352|XP_016945525.1|DSUZ	0.00775	
+LOC108021210|XP_016945298.1|DSUZ	0.00775	
+LOC108021467|XP_016945688.1|DSUZ	0.00775	
+LOC108021411|XP_016945607.1|DSUZ	0.00775	MSAC.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	TRNI.longest_only.faa
+LOC108021081|XP_016945087.1|DSUZ	0.00775	MSAC.longest_only.faa	DGRI.longest_only.faa
+LOC108006420|XP_016925436.1|DSUZ	0.00775	AALB.longest_only.faa	BMOR.longest_only.faa	SLEB.longest_only.faa
+LOC108017723|XP_016940325.1|DSUZ	0.00775	
+LOC108012845|XP_016933803.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108021230|XP_016945325.1|DSUZ	0.00775	AGAM.longest_only.faa
+LOC108021413|XP_016945614.1|DSUZ	0.00775	
+LOC108007647|XP_016926861.1|DSUZ	0.00775	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021231|XP_016945326.1|DSUZ	0.00775	
+LOC108006858|XP_016925917.1|DSUZ	0.00775	AALB.longest_only.faa	PXUT.longest_only.faa	DSER.longest_only.faa
+LOC108021224|XP_016945312.1|DSUZ	0.00775	AALB.longest_only.faa	DWIL.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa
+LOC108021125|XP_016945170.1|DSUZ	0.00775	DSEC.longest_only.faa
+LOC108008423|XP_016927763.1|DSUZ	0.00775	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108009756|XP_016929866.1|DSUZ	0.00775	DPER.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	MSAC.longest_only.faa
+LOC108021124|XP_016945169.1|DSUZ	0.00775	DWIL.longest_only.faa	DSEC.longest_only.faa
+LOC108021226|XP_016945314.1|DSUZ	0.00775	AALB.longest_only.faa	HKAH.longest_only.faa	DRHO.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108021329|XP_016945488.1|DSUZ	0.00775	DGRI.longest_only.faa
+LOC108009038|XP_016928512.1|DSUZ	0.00775	TRNI.longest_only.faa
+LOC108021286|XP_016945414.1|DSUZ	0.00775	AALB.longest_only.faa	DWIL.longest_only.faa	DSER.longest_only.faa	NVIT.longest_only.faa
+LOC108011570|XP_016932232.1|DSUZ	0.00775	
+LOC108020961|XP_016944896.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108005517|XP_016924304.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108018075|XP_016940969.1|DSUZ	0.00775	AALB.longest_only.faa	DOBS.longest_only.faa	GMEL.longest_only.faa
+LOC108021652|XP_016945957.1|DSUZ	0.00775	
+LOC108021009|XP_016944975.1|DSUZ	0.00775	DBIP.longest_only.faa	DPER.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	DGRI.longest_only.faa	DEUG.longest_only.faa	TRNI.longest_only.faa
+LOC108020959|XP_016944893.1|DSUZ	0.00775	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	SLEB.longest_only.faa	GMEL.longest_only.faa	OBIR.longest_only.faa	TRNI.longest_only.faa
+LOC108009355|XP_016929147.1|DSUZ	0.00775	DBIP.longest_only.faa
+LOC108016551|XP_016938717.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108005606|XP_016924407.1|DSUZ	0.00775	AALB.longest_only.faa	BTAB.longest_only.faa	MSAC.longest_only.faa	DPER.longest_only.faa
+LOC108021014|XP_016944982.1|DSUZ	0.00775	DTAK.longest_only.faa	DELE.longest_only.faa	AALB.longest_only.faa	CNAS.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108021725|XP_016946049.1|DSUZ	0.00775	
+LOC108021397|XP_016945586.1|DSUZ	0.00775	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108006725|XP_016925760.1|DSUZ	0.00775	
+LOC108021726|XP_016946051.1|DSUZ	0.00775	OBIR.longest_only.faa	SLEB.longest_only.faa
+LOC108010022|XP_016930312.1|DSUZ	0.00775	DSER.longest_only.faa
+LOC108011896|XP_016932638.1|DSUZ	0.00775	
+LOC108009008|XP_016928501.1|DSUZ	0.00775	
+LOC108011025|XP_016931549.1|DSUZ	0.00775	
+LOC108008452|XP_016927798.1|DSUZ	0.00775	
+LOC108006705|XP_016925737.1|DSUZ	0.00775	
+LOC108006120|XP_016925061.1|DSUZ	0.00775	HKAH.longest_only.faa
+LOC108021697|XP_016946013.1|DSUZ	0.00775	
+LOC108005409|XP_016924203.1|DSUZ	0.00775	DRHO.longest_only.faa	DBIP.longest_only.faa	DYAK.longest_only.faa
+LOC108021732|XP_016946059.1|DSUZ	0.00775	DPSE.longest_only.faa
+LOC108021176|XP_016945247.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108021163|XP_016945233.1|DSUZ	0.00775	
+LOC108021731|XP_016946058.1|DSUZ	0.00775	DANA.longest_only.faa
+LOC108021493|XP_016945730.1|DSUZ	0.00775	
+LOC108021393|XP_016945579.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108012884|XP_016933868.1|DSUZ	0.00775	
+LOC108013151|XP_016934334.1|DSUZ	0.00775	
+LOC108009999|XP_016930278.1|DSUZ	0.00775	
+LOC108010447|XP_016930800.1|DSUZ	0.00775	
+LOC108007103|XP_016926231.1|DSUZ	0.00775	AALB.longest_only.faa	DANA.longest_only.faa	MSAC.longest_only.faa
+LOC108006926|XP_016926021.1|DSUZ	0.00775	DELE.longest_only.faa	DKIK.longest_only.faa
+LOC108010915|XP_016931407.1|DSUZ	0.00775	DRHO.longest_only.faa	DMIR.longest_only.faa	DOBS.longest_only.faa
+LOC108021645|XP_016945944.1|DSUZ	0.00775	BTER.longest_only.faa	MPHA.longest_only.faa	AMEL.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108017279|XP_016939788.1|DSUZ	0.00775	DANA.longest_only.faa
+LOC108010954|XP_016931457.1|DSUZ	0.00775	
+LOC108006912|XP_016926001.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108008153|XP_016927434.1|DSUZ	0.00775	DWIL.longest_only.faa
+LOC108009323|XP_016929086.1|DSUZ	0.00775	DSER.longest_only.faa	DGRI.longest_only.faa
+LOC108011330|XP_016931932.1|DSUZ	0.00775	
+LOC108007638|XP_016926850.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108009436|XP_016929266.1|DSUZ	0.00775	PPOL.longest_only.faa	DBIP.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021447|XP_016945656.1|DSUZ	0.00775	AALB.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	DHYD.longest_only.faa	DGRI.longest_only.faa	NVIT.longest_only.faa
+LOC108021639|XP_016945936.1|DSUZ	0.00775	MPHA.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	DGUA.longest_only.faa	DGRI.longest_only.faa	OBIR.longest_only.faa
+LOC108005464|XP_016924252.1|DSUZ	0.00775	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108006187|XP_016925116.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108014688|XP_016936355.1|DSUZ	0.00775	
+LOC108021332|XP_016945492.1|DSUZ	0.00775	
+LOC108006441|XP_016925458.1|DSUZ	0.00775	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021576|XP_016945847.1|DSUZ	0.00775	DKIK.longest_only.faa
+LOC108021203|XP_016945292.1|DSUZ	0.00775	
+LOC108014616|XP_016936271.1|DSUZ	0.00775	AALB.longest_only.faa	BMOR.longest_only.faa	OBIR.longest_only.faa	BTAB.longest_only.faa
+LOC108006815|XP_016925855.1|DSUZ	0.00775	BTAB.longest_only.faa	DOBS.longest_only.faa
+LOC108021196|XP_016945278.1|DSUZ	0.00775	
+LOC108020379|XP_016944124.1|DSUZ	0.00775	
+LOC108014664|XP_016936318.1|DSUZ	0.00775	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021043|XP_016945027.1|DSUZ	0.00775	AALB.longest_only.faa	DWIL.longest_only.faa
+LOC108005364|XP_016924108.1|DSUZ	0.00775	PXUT.longest_only.faa	DOBS.longest_only.faa	CNAS.longest_only.faa
+LOC108019522|XP_016942843.1|DSUZ	0.00775	DBIP.longest_only.faa	DOBS.longest_only.faa	MSAC.longest_only.faa
+LOC108021156|XP_016945221.1|DSUZ	0.00775	DSEC.longest_only.faa	DTAK.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DBIA.longest_only.faa	DYAK.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DPSE.longest_only.faa	DMOJ.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108015134|XP_016936891.1|DSUZ	0.00775	DRHO.longest_only.faa	OBIR.longest_only.faa
+LOC108021400|XP_016945592.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108011887|XP_016932626.1|DSUZ	0.00775	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa	DELE.longest_only.faa
+LOC108021190|XP_016945267.1|DSUZ	0.00775	TRNI.longest_only.faa
+LOC108011079|XP_016931635.1|DSUZ	0.00775	
+LOC108021410|XP_016945606.1|DSUZ	0.00775	PXUT.longest_only.faa	DOBS.longest_only.faa
+LOC108021220|XP_016945309.1|DSUZ	0.00775	DBIP.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	SLEB.longest_only.faa	DOBS.longest_only.faa	DYAK.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DKIK.longest_only.faa	DEUG.longest_only.faa
+LOC108021268|XP_016945387.1|DSUZ	0.00775	
+LOC108014015|XP_016935515.1|DSUZ	0.00775	DMIR.longest_only.faa
+LOC108021470|XP_016945697.1|DSUZ	0.00775	AGAM.longest_only.faa	DVIR.longest_only.faa	AALB.longest_only.faa	DSER.longest_only.faa
+LOC108021587|XP_016945865.1|DSUZ	0.00775	MSAC.longest_only.faa	CSOL.longest_only.faa	DHYD.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108004689|XP_016923189.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108020182|XP_016943779.1|DSUZ	0.00775	
+LOC108012116|XP_016932892.1|DSUZ	0.00775	SLEB.longest_only.faa
+LOC108010903|XP_016931387.1|DSUZ	0.00775	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa
+LOC108021475|XP_016945705.1|DSUZ	0.00775	DVIR.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa
+LOC108013420|XP_016934774.1|DSUZ	0.00775	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108015953|XP_016938035.1|DSUZ	0.0055	AGAM.longest_only.faa	DRHO.longest_only.faa
+LOC108021357|XP_016945530.1|DSUZ	0.00775	DSER.longest_only.faa
+LOC108021441|XP_016945649.1|DSUZ	0.00775	PXUT.longest_only.faa	CNAS.longest_only.faa
+LOC108021358|XP_016945533.1|DSUZ	0.0055	
+LOC108010143|XP_016930469.1|DSUZ	0.0055	
+LOC108013604|XP_016935034.1|DSUZ	0.0055	DPLE.longest_only.faa	AGAM.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa
+LOC108008045|XP_016927321.1|DSUZ	0.0055	
+LOC108007722|XP_016926966.1|DSUZ	0.0055	DOBS.longest_only.faa	DGRI.longest_only.faa
+LOC108021346|XP_016945517.1|DSUZ	0.00775	PXUT.longest_only.faa
+LOC108021232|XP_016945327.1|DSUZ	0.0055	DSER.longest_only.faa	DRHO.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108008056|XP_016927330.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108021091|XP_016945103.1|DSUZ	0.0055	PXUT.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DPER.longest_only.faa
+LOC108021345|XP_016945520.1|DSUZ	0.00775	TRNI.longest_only.faa
+LOC108010682|XP_016931083.1|DSUZ	0.0055	DPER.longest_only.faa	SLEB.longest_only.faa
+LOC108010191|XP_016930527.1|DSUZ	0.0055	DRHO.longest_only.faa
+LOC108021551|XP_016945811.1|DSUZ	0.0055	CSOL.longest_only.faa	DPLE.longest_only.faa
+LOC108019067|XP_016942201.1|DSUZ	0.00775	
+LOC108021093|XP_016945106.1|DSUZ	0.0055	PXUT.longest_only.faa	DPER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DGRI.longest_only.faa	TRNI.longest_only.faa
+LOC108011242|XP_016931838.1|DSUZ	0.0055	
+LOC108012472|XP_016933357.1|DSUZ	0.0055	
+LOC108004973|XP_016923615.1|DSUZ	0.0055	
+LOC108020937|XP_016944858.1|DSUZ	0.00775	DNOV.longest_only.faa	TRNI.longest_only.faa
+LOC108019009|XP_016942114.1|DSUZ	0.0055	
+LOC108020395|XP_016944160.1|DSUZ	0.0055	DSEC.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	AALB.longest_only.faa	DRHO.longest_only.faa	DKIK.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108019388|XP_016942705.1|DSUZ	0.0055	PPOL.longest_only.faa	DGRI.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	BMOR.longest_only.faa	DVIR.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	DNOV.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa
+LOC108018971|XP_016942066.1|DSUZ	0.0055	
+LOC108019745|XP_016943177.1|DSUZ	0.00775	
+LOC108021256|XP_016945364.1|DSUZ	0.0055	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108006627|XP_016925648.1|DSUZ	0.0055	DNAV.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DGRI.longest_only.faa	DWIL.longest_only.faa	DMOJ.longest_only.faa	DNOV.longest_only.faa
+LOC108007467|XP_016926635.1|DSUZ	0.00775	AGAM.longest_only.faa	DSIM.longest_only.faa	AALB.longest_only.faa
+LOC108012285|XP_016933079.1|DSUZ	0.0055	TCAS.longest_only.faa
+LOC108018118|XP_016941043.1|DSUZ	0.0055	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa
+LOC108021344|XP_016945515.1|DSUZ	0.00775	MPHA.longest_only.faa
+LOC108016756|XP_016938996.1|DSUZ	0.0055	AALB.longest_only.faa	MSAC.longest_only.faa
+LOC108021506|XP_016945748.1|DSUZ	0.0055	PXUT.longest_only.faa	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DMOJ.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108015347|XP_016937249.1|DSUZ	0.00775	DRHO.longest_only.faa
+LOC108021666|XP_016945970.1|DSUZ	0.0055	DWIL.longest_only.faa
+LOC108009512|XP_016929424.1|DSUZ	0.0055	
+LOC108021507|XP_016945749.1|DSUZ	0.0055	DRHO.longest_only.faa	AALB.longest_only.faa	SLEB.longest_only.faa
+LOC108016736|XP_016938965.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108021170|XP_016945240.1|DSUZ	0.00775	AALB.longest_only.faa	TRNI.longest_only.faa
+LOC108005081|XP_016923741.1|DSUZ	0.0055	DRHO.longest_only.faa	DGRI.longest_only.faa
+LOC108005885|XP_016924760.1|DSUZ	0.0055	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108021496|XP_016945728.1|DSUZ	0.0055	DWIL.longest_only.faa	DPER.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa
+LOC108007569|XP_016926754.1|DSUZ	0.00775	PPOL.longest_only.faa	TRNI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108005078|XP_016923726.1|DSUZ	0.0055	DGRI.longest_only.faa
+LOC108014220|XP_016935744.1|DSUZ	0.0055	
+LOC108021150|XP_016945210.1|DSUZ	0.0055	PPOL.longest_only.faa	PXUT.longest_only.faa	DKIK.longest_only.faa	DPLE.longest_only.faa
+LOC108005089|XP_016923753.1|DSUZ	0.0055	DGRI.longest_only.faa
+LOC108021362|XP_016945541.1|DSUZ	0.00775	TRNI.longest_only.faa
+LOC108014164|XP_016935691.1|DSUZ	0.0055	DMIR.longest_only.faa	NVIT.longest_only.faa
+LOC108017230|XP_016939719.1|DSUZ	0.00775	AALB.longest_only.faa
+LOC108021339|XP_016945505.1|DSUZ	0.0055	PPOL.longest_only.faa	PXUT.longest_only.faa	MSAC.longest_only.faa	TRNI.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AMEL.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa
+LOC108014175|XP_016935702.1|DSUZ	0.0055	
+LOC108006895|XP_016925975.1|DSUZ	0.0055	DNAV.longest_only.faa	PXUT.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DGRI.longest_only.faa	ACEP.longest_only.faa	DNOV.longest_only.faa	DMOJ.longest_only.faa
+LOC108011113|XP_016931677.1|DSUZ	0.0055	DTAK.longest_only.faa
+LOC108007841|XP_016927128.1|DSUZ	0.0055	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108014227|XP_016935754.1|DSUZ	0.0055	
+LOC108009943|XP_016930180.1|DSUZ	0.0055	DRHO.longest_only.faa	DTAK.longest_only.faa	AALB.longest_only.faa
+LOC108021532|XP_016945783.1|DSUZ	0.0055	DERE.longest_only.faa	DSER.longest_only.faa	AGAM.longest_only.faa	MPHA.longest_only.faa	HKAH.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	CNAS.longest_only.faa
+LOC108020987|XP_016944934.1|DSUZ	0.0055	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DMIR.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108020958|XP_016944894.1|DSUZ	0.0055	AALB.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa
+LOC108016483|XP_016938638.1|DSUZ	0.0055	PPOL.longest_only.faa	DERE.longest_only.faa	DSER.longest_only.faa
+LOC108005421|XP_016924191.1|DSUZ	0.0055	
+LOC108021011|XP_016944983.1|DSUZ	0.0055	AALB.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108021372|XP_016945552.1|DSUZ	0.0055	
+LOC108021245|XP_016945350.1|DSUZ	0.0055	AALB.longest_only.faa	BTAB.longest_only.faa	HKAH.longest_only.faa
+LOC108021006|XP_016944970.1|DSUZ	0.0055	
+LOC108004665|XP_016923135.1|DSUZ	0.0055	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021371|XP_016945551.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108007981|XP_016927252.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108004636|XP_016923077.1|DSUZ	0.0055	HKAH.longest_only.faa	DOBS.longest_only.faa
+LOC108009976|XP_016930240.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108005615|XP_016924417.1|DSUZ	0.0055	MSAC.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108020992|XP_016944942.1|DSUZ	0.0055	DOBS.longest_only.faa
+LOC108009894|XP_016930106.1|DSUZ	0.0055	AALB.longest_only.faa	CNAS.longest_only.faa
+LOC108018143|XP_016941095.1|DSUZ	0.0055	DBIP.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108021559|XP_016945818.1|DSUZ	0.0055	
+LOC108005009|XP_016923636.1|DSUZ	0.0055	
+LOC108018950|XP_016942045.1|DSUZ	0.0055	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108020749|XP_016944618.1|DSUZ	0.0055	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108005698|XP_016924517.1|DSUZ	0.0055	HKAH.longest_only.faa	NVIT.longest_only.faa
+LOC108021519|XP_016945765.1|DSUZ	0.0055	DGRI.longest_only.faa
+LOC108021248|XP_016945355.1|DSUZ	0.0055	
+LOC108020303|XP_016943926.1|DSUZ	0.0055	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa
+LOC108005715|XP_016924536.1|DSUZ	0.0055	AALB.longest_only.faa	DSER.longest_only.faa	TRNI.longest_only.faa
+LOC108020892|XP_016944791.1|DSUZ	0.0055	PXUT.longest_only.faa	NVIT.longest_only.faa
+LOC108017003|XP_016939447.1|DSUZ	0.0055	
+LOC108021296|XP_016945432.1|DSUZ	0.0055	DSER.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa	NVIT.longest_only.faa
+LOC108019425|XP_016942739.1|DSUZ	0.0055	AALB.longest_only.faa	BTER.longest_only.faa
+LOC108017011|XP_016939458.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108010321|XP_016930721.1|DSUZ	0.0055	DRHO.longest_only.faa	DPSE.longest_only.faa
+LOC108021210|XP_016945298.1|DSUZ	0.0055	
+LOC108021352|XP_016945525.1|DSUZ	0.0055	
+LOC108021467|XP_016945688.1|DSUZ	0.0055	
+LOC108021472|XP_016945700.1|DSUZ	0.0055	DBIP.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	ACEP.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa	TRNI.longest_only.faa	DYAK.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DMEL.longest_only.faa	CNAS.longest_only.faa	DGRI.longest_only.faa	DNOV.longest_only.faa	DNAV.longest_only.faa	PXUT.longest_only.faa	DTAK.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	PPOL.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DARI.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108017723|XP_016940325.1|DSUZ	0.0055	
+LOC108006420|XP_016925436.1|DSUZ	0.0055	AALB.longest_only.faa	BMOR.longest_only.faa	SLEB.longest_only.faa
+LOC108021081|XP_016945087.1|DSUZ	0.0055	MSAC.longest_only.faa	DGRI.longest_only.faa
+LOC108021707|XP_016946030.1|DSUZ	0.0055	DGRI.longest_only.faa
+LOC108021413|XP_016945614.1|DSUZ	0.0055	
+LOC108012845|XP_016933803.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108007647|XP_016926861.1|DSUZ	0.0055	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021142|XP_016945194.1|DSUZ	0.0055	DERE.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DPSE.longest_only.faa	CNAS.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108021125|XP_016945170.1|DSUZ	0.0055	DSEC.longest_only.faa
+LOC108006858|XP_016925917.1|DSUZ	0.0055	AALB.longest_only.faa	PXUT.longest_only.faa	DSER.longest_only.faa
+LOC108021224|XP_016945312.1|DSUZ	0.0055	AALB.longest_only.faa	DWIL.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa
+LOC108021124|XP_016945169.1|DSUZ	0.0055	DWIL.longest_only.faa	DSEC.longest_only.faa
+LOC108017683|XP_016940284.1|DSUZ	0.0055	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108009756|XP_016929866.1|DSUZ	0.0055	DPER.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	MSAC.longest_only.faa
+LOC108021226|XP_016945314.1|DSUZ	0.0055	AALB.longest_only.faa	HKAH.longest_only.faa	DRHO.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108021329|XP_016945488.1|DSUZ	0.0055	DGRI.longest_only.faa
+LOC108021286|XP_016945414.1|DSUZ	0.0055	AALB.longest_only.faa	DWIL.longest_only.faa	DSER.longest_only.faa	NVIT.longest_only.faa
+LOC108011570|XP_016932232.1|DSUZ	0.0055	
+LOC108021463|XP_016945682.1|DSUZ	0.0055	DTAK.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	CSOL.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DWIL.longest_only.faa	NVIT.longest_only.faa
+LOC108020961|XP_016944896.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108018075|XP_016940969.1|DSUZ	0.0055	AALB.longest_only.faa	DOBS.longest_only.faa	GMEL.longest_only.faa
+LOC108021009|XP_016944975.1|DSUZ	0.0055	DBIP.longest_only.faa	DPER.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	DGRI.longest_only.faa	DEUG.longest_only.faa	TRNI.longest_only.faa
+LOC108021411|XP_016945607.1|DSUZ	0.0055	MSAC.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	TRNI.longest_only.faa
+LOC108020959|XP_016944893.1|DSUZ	0.0055	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	SLEB.longest_only.faa	GMEL.longest_only.faa	OBIR.longest_only.faa	TRNI.longest_only.faa
+LOC108009355|XP_016929147.1|DSUZ	0.0055	DBIP.longest_only.faa
+LOC108021230|XP_016945325.1|DSUZ	0.0055	AGAM.longest_only.faa
+LOC108005606|XP_016924407.1|DSUZ	0.0055	AALB.longest_only.faa	BTAB.longest_only.faa	MSAC.longest_only.faa	DPER.longest_only.faa
+LOC108021014|XP_016944982.1|DSUZ	0.0055	DTAK.longest_only.faa	DELE.longest_only.faa	AALB.longest_only.faa	CNAS.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108021397|XP_016945586.1|DSUZ	0.0055	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108010022|XP_016930312.1|DSUZ	0.0055	DSER.longest_only.faa
+LOC108006725|XP_016925760.1|DSUZ	0.0055	
+LOC108011896|XP_016932638.1|DSUZ	0.0055	
+LOC108021231|XP_016945326.1|DSUZ	0.0055	
+LOC108008452|XP_016927798.1|DSUZ	0.0055	
+LOC108021697|XP_016946013.1|DSUZ	0.0055	
+LOC108006120|XP_016925061.1|DSUZ	0.0055	HKAH.longest_only.faa
+LOC108006705|XP_016925737.1|DSUZ	0.0055	
+LOC108008423|XP_016927763.1|DSUZ	0.0055	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108005409|XP_016924203.1|DSUZ	0.0055	DRHO.longest_only.faa	DBIP.longest_only.faa	DYAK.longest_only.faa
+LOC108021732|XP_016946059.1|DSUZ	0.0055	DPSE.longest_only.faa
+LOC108009038|XP_016928512.1|DSUZ	0.0055	TRNI.longest_only.faa
+LOC108021731|XP_016946058.1|DSUZ	0.0055	DANA.longest_only.faa
+LOC108021163|XP_016945233.1|DSUZ	0.0055	
+LOC108021393|XP_016945579.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108012884|XP_016933868.1|DSUZ	0.0055	
+LOC108009999|XP_016930278.1|DSUZ	0.0055	
+LOC108013151|XP_016934334.1|DSUZ	0.0055	
+LOC108010447|XP_016930800.1|DSUZ	0.0055	
+LOC108007103|XP_016926231.1|DSUZ	0.0055	AALB.longest_only.faa	DANA.longest_only.faa	MSAC.longest_only.faa
+LOC108005517|XP_016924304.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108010915|XP_016931407.1|DSUZ	0.0055	DRHO.longest_only.faa	DMIR.longest_only.faa	DOBS.longest_only.faa
+LOC108021652|XP_016945957.1|DSUZ	0.0055	
+LOC108021645|XP_016945944.1|DSUZ	0.0055	BTER.longest_only.faa	MPHA.longest_only.faa	AMEL.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108017279|XP_016939788.1|DSUZ	0.0055	DANA.longest_only.faa
+LOC108010954|XP_016931457.1|DSUZ	0.0055	
+LOC108008153|XP_016927434.1|DSUZ	0.0055	DWIL.longest_only.faa
+LOC108009323|XP_016929086.1|DSUZ	0.0055	DSER.longest_only.faa	DGRI.longest_only.faa
+LOC108011330|XP_016931932.1|DSUZ	0.0055	
+LOC108016551|XP_016938717.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108007638|XP_016926850.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108021725|XP_016946049.1|DSUZ	0.0055	
+LOC108005464|XP_016924252.1|DSUZ	0.0055	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108021726|XP_016946051.1|DSUZ	0.0055	OBIR.longest_only.faa	SLEB.longest_only.faa
+LOC108021639|XP_016945936.1|DSUZ	0.0055	MPHA.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	DGUA.longest_only.faa	DGRI.longest_only.faa	OBIR.longest_only.faa
+LOC108021447|XP_016945656.1|DSUZ	0.0055	AALB.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	DHYD.longest_only.faa	DGRI.longest_only.faa	NVIT.longest_only.faa
+LOC108009008|XP_016928501.1|DSUZ	0.0055	
+LOC108021332|XP_016945492.1|DSUZ	0.0055	
+LOC108011025|XP_016931549.1|DSUZ	0.0055	
+LOC108014688|XP_016936355.1|DSUZ	0.0055	
+LOC108006441|XP_016925458.1|DSUZ	0.0055	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021576|XP_016945847.1|DSUZ	0.0055	DKIK.longest_only.faa
+LOC108021176|XP_016945247.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108014616|XP_016936271.1|DSUZ	0.0055	AALB.longest_only.faa	BMOR.longest_only.faa	OBIR.longest_only.faa	BTAB.longest_only.faa
+LOC108021493|XP_016945730.1|DSUZ	0.0055	
+LOC108006815|XP_016925855.1|DSUZ	0.0055	BTAB.longest_only.faa	DOBS.longest_only.faa
+LOC108020379|XP_016944124.1|DSUZ	0.0055	
+LOC108014664|XP_016936318.1|DSUZ	0.0055	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108006926|XP_016926021.1|DSUZ	0.0055	DELE.longest_only.faa	DKIK.longest_only.faa
+LOC108005364|XP_016924108.1|DSUZ	0.0055	PXUT.longest_only.faa	DOBS.longest_only.faa	CNAS.longest_only.faa
+LOC108015134|XP_016936891.1|DSUZ	0.0055	DRHO.longest_only.faa	OBIR.longest_only.faa
+LOC108019522|XP_016942843.1|DSUZ	0.0055	DBIP.longest_only.faa	DOBS.longest_only.faa	MSAC.longest_only.faa
+LOC108006912|XP_016926001.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108021156|XP_016945221.1|DSUZ	0.0055	DSEC.longest_only.faa	DTAK.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DBIA.longest_only.faa	DYAK.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DPSE.longest_only.faa	DMOJ.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108011887|XP_016932626.1|DSUZ	0.0055	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa	DELE.longest_only.faa
+LOC108011079|XP_016931635.1|DSUZ	0.0055	
+LOC108021190|XP_016945267.1|DSUZ	0.0055	TRNI.longest_only.faa
+LOC108021410|XP_016945606.1|DSUZ	0.0055	PXUT.longest_only.faa	DOBS.longest_only.faa
+LOC108009436|XP_016929266.1|DSUZ	0.0055	PPOL.longest_only.faa	DBIP.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021268|XP_016945387.1|DSUZ	0.0055	
+LOC108021470|XP_016945697.1|DSUZ	0.0055	AGAM.longest_only.faa	DVIR.longest_only.faa	AALB.longest_only.faa	DSER.longest_only.faa
+LOC108006187|XP_016925116.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108004689|XP_016923189.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108021587|XP_016945865.1|DSUZ	0.0055	MSAC.longest_only.faa	CSOL.longest_only.faa	DHYD.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108020182|XP_016943779.1|DSUZ	0.0055	
+LOC108021475|XP_016945705.1|DSUZ	0.0055	DVIR.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa
+LOC108010903|XP_016931387.1|DSUZ	0.0055	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa
+LOC108021357|XP_016945530.1|DSUZ	0.0055	DSER.longest_only.faa
+LOC108021203|XP_016945292.1|DSUZ	0.0055	
+LOC108013420|XP_016934774.1|DSUZ	0.0055	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108015953|XP_016938035.1|DSUZ	0.00325	AGAM.longest_only.faa	DRHO.longest_only.faa
+LOC108010143|XP_016930469.1|DSUZ	0.00325	
+LOC108021196|XP_016945278.1|DSUZ	0.0055	
+LOC108021358|XP_016945533.1|DSUZ	0.00325	
+LOC108007722|XP_016926966.1|DSUZ	0.00325	DOBS.longest_only.faa	DGRI.longest_only.faa
+LOC108008045|XP_016927321.1|DSUZ	0.00325	
+LOC108013604|XP_016935034.1|DSUZ	0.00325	DPLE.longest_only.faa	AGAM.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa
+LOC108021043|XP_016945027.1|DSUZ	0.0055	AALB.longest_only.faa	DWIL.longest_only.faa
+LOC108021232|XP_016945327.1|DSUZ	0.00325	DSER.longest_only.faa	DRHO.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108010682|XP_016931083.1|DSUZ	0.00325	DPER.longest_only.faa	SLEB.longest_only.faa
+LOC108008056|XP_016927330.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108010191|XP_016930527.1|DSUZ	0.00325	DRHO.longest_only.faa
+LOC108021400|XP_016945592.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108021091|XP_016945103.1|DSUZ	0.00325	PXUT.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DPER.longest_only.faa
+LOC108011242|XP_016931838.1|DSUZ	0.00325	
+LOC108021551|XP_016945811.1|DSUZ	0.00325	CSOL.longest_only.faa	DPLE.longest_only.faa
+LOC108021220|XP_016945309.1|DSUZ	0.0055	DBIP.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	SLEB.longest_only.faa	DOBS.longest_only.faa	DYAK.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DKIK.longest_only.faa	DEUG.longest_only.faa
+LOC108004973|XP_016923615.1|DSUZ	0.00325	
+LOC108012472|XP_016933357.1|DSUZ	0.00325	
+LOC108014015|XP_016935515.1|DSUZ	0.0055	DMIR.longest_only.faa
+LOC108021093|XP_016945106.1|DSUZ	0.00325	PXUT.longest_only.faa	DPER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DGRI.longest_only.faa	TRNI.longest_only.faa
+LOC108019388|XP_016942705.1|DSUZ	0.00325	PPOL.longest_only.faa	DGRI.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	BMOR.longest_only.faa	DVIR.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	DNOV.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa
+LOC108012116|XP_016932892.1|DSUZ	0.0055	SLEB.longest_only.faa
+LOC108019009|XP_016942114.1|DSUZ	0.00325	
+LOC108020395|XP_016944160.1|DSUZ	0.00325	DSEC.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	AALB.longest_only.faa	DRHO.longest_only.faa	DKIK.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108006627|XP_016925648.1|DSUZ	0.00325	DNAV.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DGRI.longest_only.faa	DWIL.longest_only.faa	DMOJ.longest_only.faa	DNOV.longest_only.faa
+LOC108018971|XP_016942066.1|DSUZ	0.00325	
+LOC108021256|XP_016945364.1|DSUZ	0.00325	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108021441|XP_016945649.1|DSUZ	0.0055	PXUT.longest_only.faa	CNAS.longest_only.faa
+LOC108021506|XP_016945748.1|DSUZ	0.00325	PXUT.longest_only.faa	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DMOJ.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108012285|XP_016933079.1|DSUZ	0.00325	TCAS.longest_only.faa
+LOC108018118|XP_016941043.1|DSUZ	0.00325	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa
+LOC108021346|XP_016945517.1|DSUZ	0.0055	PXUT.longest_only.faa
+LOC108021507|XP_016945749.1|DSUZ	0.00325	DRHO.longest_only.faa	AALB.longest_only.faa	SLEB.longest_only.faa
+LOC108016756|XP_016938996.1|DSUZ	0.00325	AALB.longest_only.faa	MSAC.longest_only.faa
+LOC108021666|XP_016945970.1|DSUZ	0.00325	DWIL.longest_only.faa
+LOC108021345|XP_016945520.1|DSUZ	0.0055	TRNI.longest_only.faa
+LOC108009512|XP_016929424.1|DSUZ	0.00325	
+LOC108016736|XP_016938965.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021496|XP_016945728.1|DSUZ	0.00325	DWIL.longest_only.faa	DPER.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa
+LOC108019067|XP_016942201.1|DSUZ	0.0055	
+LOC108005081|XP_016923741.1|DSUZ	0.00325	DRHO.longest_only.faa	DGRI.longest_only.faa
+LOC108005885|XP_016924760.1|DSUZ	0.00325	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108021150|XP_016945210.1|DSUZ	0.00325	PPOL.longest_only.faa	PXUT.longest_only.faa	DKIK.longest_only.faa	DPLE.longest_only.faa
+LOC108005078|XP_016923726.1|DSUZ	0.00325	DGRI.longest_only.faa
+LOC108020937|XP_016944858.1|DSUZ	0.0055	DNOV.longest_only.faa	TRNI.longest_only.faa
+LOC108014220|XP_016935744.1|DSUZ	0.00325	
+LOC108014164|XP_016935691.1|DSUZ	0.00325	DMIR.longest_only.faa	NVIT.longest_only.faa
+LOC108019745|XP_016943177.1|DSUZ	0.0055	
+LOC108005089|XP_016923753.1|DSUZ	0.00325	DGRI.longest_only.faa
+LOC108021339|XP_016945505.1|DSUZ	0.00325	PPOL.longest_only.faa	PXUT.longest_only.faa	MSAC.longest_only.faa	TRNI.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AMEL.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa
+LOC108011113|XP_016931677.1|DSUZ	0.00325	DTAK.longest_only.faa
+LOC108014175|XP_016935702.1|DSUZ	0.00325	
+LOC108007467|XP_016926635.1|DSUZ	0.0055	AGAM.longest_only.faa	DSIM.longest_only.faa	AALB.longest_only.faa
+LOC108006895|XP_016925975.1|DSUZ	0.00325	DNAV.longest_only.faa	PXUT.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DGRI.longest_only.faa	ACEP.longest_only.faa	DNOV.longest_only.faa	DMOJ.longest_only.faa
+LOC108021532|XP_016945783.1|DSUZ	0.00325	DERE.longest_only.faa	DSER.longest_only.faa	AGAM.longest_only.faa	MPHA.longest_only.faa	HKAH.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	CNAS.longest_only.faa
+LOC108021344|XP_016945515.1|DSUZ	0.0055	MPHA.longest_only.faa
+LOC108014227|XP_016935754.1|DSUZ	0.00325	
+LOC108015347|XP_016937249.1|DSUZ	0.0055	DRHO.longest_only.faa
+LOC108009943|XP_016930180.1|DSUZ	0.00325	DRHO.longest_only.faa	DTAK.longest_only.faa	AALB.longest_only.faa
+LOC108016483|XP_016938638.1|DSUZ	0.00325	PPOL.longest_only.faa	DERE.longest_only.faa	DSER.longest_only.faa
+LOC108020958|XP_016944894.1|DSUZ	0.00325	AALB.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa
+LOC108021170|XP_016945240.1|DSUZ	0.0055	AALB.longest_only.faa	TRNI.longest_only.faa
+LOC108020987|XP_016944934.1|DSUZ	0.00325	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DMIR.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108021372|XP_016945552.1|DSUZ	0.00325	
+LOC108005421|XP_016924191.1|DSUZ	0.00325	
+LOC108007569|XP_016926754.1|DSUZ	0.0055	PPOL.longest_only.faa	TRNI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108021011|XP_016944983.1|DSUZ	0.00325	AALB.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108021371|XP_016945551.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021006|XP_016944970.1|DSUZ	0.00325	
+LOC108021245|XP_016945350.1|DSUZ	0.00325	AALB.longest_only.faa	BTAB.longest_only.faa	HKAH.longest_only.faa
+LOC108021362|XP_016945541.1|DSUZ	0.0055	TRNI.longest_only.faa
+LOC108005615|XP_016924417.1|DSUZ	0.00325	MSAC.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108007981|XP_016927252.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108004636|XP_016923077.1|DSUZ	0.00325	HKAH.longest_only.faa	DOBS.longest_only.faa
+LOC108017230|XP_016939719.1|DSUZ	0.0055	AALB.longest_only.faa
+LOC108007841|XP_016927128.1|DSUZ	0.00325	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108020992|XP_016944942.1|DSUZ	0.00325	DOBS.longest_only.faa
+LOC108009894|XP_016930106.1|DSUZ	0.00325	AALB.longest_only.faa	CNAS.longest_only.faa
+LOC108018950|XP_016942045.1|DSUZ	0.00325	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108021559|XP_016945818.1|DSUZ	0.00325	
+LOC108021248|XP_016945355.1|DSUZ	0.00325	
+LOC108020749|XP_016944618.1|DSUZ	0.00325	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108005698|XP_016924517.1|DSUZ	0.00325	HKAH.longest_only.faa	NVIT.longest_only.faa
+LOC108017003|XP_016939447.1|DSUZ	0.00325	
+LOC108020303|XP_016943926.1|DSUZ	0.00325	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa
+LOC108005715|XP_016924536.1|DSUZ	0.00325	AALB.longest_only.faa	DSER.longest_only.faa	TRNI.longest_only.faa
+LOC108017011|XP_016939458.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021296|XP_016945432.1|DSUZ	0.00325	DSER.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa	NVIT.longest_only.faa
+LOC108019425|XP_016942739.1|DSUZ	0.00325	AALB.longest_only.faa	BTER.longest_only.faa
+LOC108004665|XP_016923135.1|DSUZ	0.00325	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021210|XP_016945298.1|DSUZ	0.00325	
+LOC108010321|XP_016930721.1|DSUZ	0.00325	DRHO.longest_only.faa	DPSE.longest_only.faa
+LOC108021467|XP_016945688.1|DSUZ	0.00325	
+LOC108009976|XP_016930240.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021352|XP_016945525.1|DSUZ	0.00325	
+LOC108017723|XP_016940325.1|DSUZ	0.00325	
+LOC108006420|XP_016925436.1|DSUZ	0.00325	AALB.longest_only.faa	BMOR.longest_only.faa	SLEB.longest_only.faa
+LOC108018143|XP_016941095.1|DSUZ	0.00325	DBIP.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108021081|XP_016945087.1|DSUZ	0.00325	MSAC.longest_only.faa	DGRI.longest_only.faa
+LOC108005009|XP_016923636.1|DSUZ	0.00325	
+LOC108021413|XP_016945614.1|DSUZ	0.00325	
+LOC108007647|XP_016926861.1|DSUZ	0.00325	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021519|XP_016945765.1|DSUZ	0.00325	DGRI.longest_only.faa
+LOC108012845|XP_016933803.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021125|XP_016945170.1|DSUZ	0.00325	DSEC.longest_only.faa
+LOC108021224|XP_016945312.1|DSUZ	0.00325	AALB.longest_only.faa	DWIL.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa
+LOC108021124|XP_016945169.1|DSUZ	0.00325	DWIL.longest_only.faa	DSEC.longest_only.faa
+LOC108020892|XP_016944791.1|DSUZ	0.00325	PXUT.longest_only.faa	NVIT.longest_only.faa
+LOC108006858|XP_016925917.1|DSUZ	0.00325	AALB.longest_only.faa	PXUT.longest_only.faa	DSER.longest_only.faa
+LOC108021226|XP_016945314.1|DSUZ	0.00325	AALB.longest_only.faa	HKAH.longest_only.faa	DRHO.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108021286|XP_016945414.1|DSUZ	0.00325	AALB.longest_only.faa	DWIL.longest_only.faa	DSER.longest_only.faa	NVIT.longest_only.faa
+LOC108009756|XP_016929866.1|DSUZ	0.00325	DPER.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	MSAC.longest_only.faa
+LOC108020961|XP_016944896.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021329|XP_016945488.1|DSUZ	0.00325	DGRI.longest_only.faa
+LOC108018075|XP_016940969.1|DSUZ	0.00325	AALB.longest_only.faa	DOBS.longest_only.faa	GMEL.longest_only.faa
+LOC108020959|XP_016944893.1|DSUZ	0.00325	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	SLEB.longest_only.faa	GMEL.longest_only.faa	OBIR.longest_only.faa	TRNI.longest_only.faa
+LOC108011570|XP_016932232.1|DSUZ	0.00325	
+LOC108021472|XP_016945700.1|DSUZ	0.00325	DBIP.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	ACEP.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa	TRNI.longest_only.faa	DYAK.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DMEL.longest_only.faa	CNAS.longest_only.faa	DGRI.longest_only.faa	DNOV.longest_only.faa	DNAV.longest_only.faa	PXUT.longest_only.faa	DTAK.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	PPOL.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DARI.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108009355|XP_016929147.1|DSUZ	0.00325	DBIP.longest_only.faa
+LOC108021014|XP_016944982.1|DSUZ	0.00325	DTAK.longest_only.faa	DELE.longest_only.faa	AALB.longest_only.faa	CNAS.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108021707|XP_016946030.1|DSUZ	0.00325	DGRI.longest_only.faa
+LOC108021009|XP_016944975.1|DSUZ	0.00325	DBIP.longest_only.faa	DPER.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	DGRI.longest_only.faa	DEUG.longest_only.faa	TRNI.longest_only.faa
+LOC108021397|XP_016945586.1|DSUZ	0.00325	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108006725|XP_016925760.1|DSUZ	0.00325	
+LOC108005606|XP_016924407.1|DSUZ	0.00325	AALB.longest_only.faa	BTAB.longest_only.faa	MSAC.longest_only.faa	DPER.longest_only.faa
+LOC108021142|XP_016945194.1|DSUZ	0.00325	DERE.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DPSE.longest_only.faa	CNAS.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108008452|XP_016927798.1|DSUZ	0.00325	
+LOC108006705|XP_016925737.1|DSUZ	0.00325	
+LOC108021697|XP_016946013.1|DSUZ	0.00325	
+LOC108005409|XP_016924203.1|DSUZ	0.00325	DRHO.longest_only.faa	DBIP.longest_only.faa	DYAK.longest_only.faa
+LOC108010022|XP_016930312.1|DSUZ	0.00325	DSER.longest_only.faa
+LOC108011896|XP_016932638.1|DSUZ	0.00325	
+LOC108021732|XP_016946059.1|DSUZ	0.00325	DPSE.longest_only.faa
+LOC108021731|XP_016946058.1|DSUZ	0.00325	DANA.longest_only.faa
+LOC108017683|XP_016940284.1|DSUZ	0.00325	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108021393|XP_016945579.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108006120|XP_016925061.1|DSUZ	0.00325	HKAH.longest_only.faa
+LOC108013151|XP_016934334.1|DSUZ	0.00325	
+LOC108007103|XP_016926231.1|DSUZ	0.00325	AALB.longest_only.faa	DANA.longest_only.faa	MSAC.longest_only.faa
+LOC108021163|XP_016945233.1|DSUZ	0.00325	
+LOC108021463|XP_016945682.1|DSUZ	0.00325	DTAK.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	CSOL.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DWIL.longest_only.faa	NVIT.longest_only.faa
+LOC108021645|XP_016945944.1|DSUZ	0.00325	BTER.longest_only.faa	MPHA.longest_only.faa	AMEL.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108012884|XP_016933868.1|DSUZ	0.00325	
+LOC108010954|XP_016931457.1|DSUZ	0.00325	
+LOC108017279|XP_016939788.1|DSUZ	0.00325	DANA.longest_only.faa
+LOC108009999|XP_016930278.1|DSUZ	0.00325	
+LOC108010447|XP_016930800.1|DSUZ	0.00325	
+LOC108009323|XP_016929086.1|DSUZ	0.00325	DSER.longest_only.faa	DGRI.longest_only.faa
+LOC108021411|XP_016945607.1|DSUZ	0.00325	MSAC.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	TRNI.longest_only.faa
+LOC108007638|XP_016926850.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108010915|XP_016931407.1|DSUZ	0.00325	DRHO.longest_only.faa	DMIR.longest_only.faa	DOBS.longest_only.faa
+LOC108008153|XP_016927434.1|DSUZ	0.00325	DWIL.longest_only.faa
+LOC108021230|XP_016945325.1|DSUZ	0.00325	AGAM.longest_only.faa
+LOC108005464|XP_016924252.1|DSUZ	0.00325	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108021447|XP_016945656.1|DSUZ	0.00325	AALB.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	DHYD.longest_only.faa	DGRI.longest_only.faa	NVIT.longest_only.faa
+LOC108011330|XP_016931932.1|DSUZ	0.00325	
+LOC108021332|XP_016945492.1|DSUZ	0.00325	
+LOC108021231|XP_016945326.1|DSUZ	0.00325	
+LOC108014688|XP_016936355.1|DSUZ	0.00325	
+LOC108021576|XP_016945847.1|DSUZ	0.00325	DKIK.longest_only.faa
+LOC108021639|XP_016945936.1|DSUZ	0.00325	MPHA.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	DGUA.longest_only.faa	DGRI.longest_only.faa	OBIR.longest_only.faa
+LOC108008423|XP_016927763.1|DSUZ	0.00325	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108014616|XP_016936271.1|DSUZ	0.00325	AALB.longest_only.faa	BMOR.longest_only.faa	OBIR.longest_only.faa	BTAB.longest_only.faa
+LOC108020379|XP_016944124.1|DSUZ	0.00325	
+LOC108006441|XP_016925458.1|DSUZ	0.00325	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108009038|XP_016928512.1|DSUZ	0.00325	TRNI.longest_only.faa
+LOC108014664|XP_016936318.1|DSUZ	0.00325	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108015134|XP_016936891.1|DSUZ	0.00325	DRHO.longest_only.faa	OBIR.longest_only.faa
+LOC108006815|XP_016925855.1|DSUZ	0.00325	BTAB.longest_only.faa	DOBS.longest_only.faa
+LOC108005517|XP_016924304.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108019522|XP_016942843.1|DSUZ	0.00325	DBIP.longest_only.faa	DOBS.longest_only.faa	MSAC.longest_only.faa
+LOC108011887|XP_016932626.1|DSUZ	0.00325	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa	DELE.longest_only.faa
+LOC108021652|XP_016945957.1|DSUZ	0.00325	
+LOC108011079|XP_016931635.1|DSUZ	0.00325	
+LOC108005364|XP_016924108.1|DSUZ	0.00325	PXUT.longest_only.faa	DOBS.longest_only.faa	CNAS.longest_only.faa
+LOC108021190|XP_016945267.1|DSUZ	0.00325	TRNI.longest_only.faa
+LOC108016551|XP_016938717.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021156|XP_016945221.1|DSUZ	0.00325	DSEC.longest_only.faa	DTAK.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DBIA.longest_only.faa	DYAK.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DPSE.longest_only.faa	DMOJ.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108021470|XP_016945697.1|DSUZ	0.00325	AGAM.longest_only.faa	DVIR.longest_only.faa	AALB.longest_only.faa	DSER.longest_only.faa
+LOC108021268|XP_016945387.1|DSUZ	0.00325	
+LOC108021725|XP_016946049.1|DSUZ	0.00325	
+LOC108021726|XP_016946051.1|DSUZ	0.00325	OBIR.longest_only.faa	SLEB.longest_only.faa
+LOC108021410|XP_016945606.1|DSUZ	0.00325	PXUT.longest_only.faa	DOBS.longest_only.faa
+LOC108021475|XP_016945705.1|DSUZ	0.00325	DVIR.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa
+LOC108004689|XP_016923189.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108009008|XP_016928501.1|DSUZ	0.00325	
+LOC108021357|XP_016945530.1|DSUZ	0.00325	DSER.longest_only.faa
+LOC108010903|XP_016931387.1|DSUZ	0.00325	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa
+LOC108011025|XP_016931549.1|DSUZ	0.00325	
+LOC108010143|XP_016930469.1|DSUZ	0.001	
+LOC108013420|XP_016934774.1|DSUZ	0.00325	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108021587|XP_016945865.1|DSUZ	0.00325	MSAC.longest_only.faa	CSOL.longest_only.faa	DHYD.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108020182|XP_016943779.1|DSUZ	0.00325	
+LOC108007722|XP_016926966.1|DSUZ	0.001	DOBS.longest_only.faa	DGRI.longest_only.faa
+LOC108021176|XP_016945247.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021358|XP_016945533.1|DSUZ	0.001	
+LOC108021493|XP_016945730.1|DSUZ	0.00325	
+LOC108021232|XP_016945327.1|DSUZ	0.001	DSER.longest_only.faa	DRHO.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108008045|XP_016927321.1|DSUZ	0.001	
+LOC108015953|XP_016938035.1|DSUZ	0.001	AGAM.longest_only.faa	DRHO.longest_only.faa
+LOC108010682|XP_016931083.1|DSUZ	0.001	DPER.longest_only.faa	SLEB.longest_only.faa
+LOC108010191|XP_016930527.1|DSUZ	0.001	DRHO.longest_only.faa
+LOC108008056|XP_016927330.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108006926|XP_016926021.1|DSUZ	0.00325	DELE.longest_only.faa	DKIK.longest_only.faa
+LOC108013604|XP_016935034.1|DSUZ	0.001	DPLE.longest_only.faa	AGAM.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa
+LOC108011242|XP_016931838.1|DSUZ	0.001	
+LOC108006912|XP_016926001.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108004973|XP_016923615.1|DSUZ	0.001	
+LOC108021551|XP_016945811.1|DSUZ	0.001	CSOL.longest_only.faa	DPLE.longest_only.faa
+LOC108021091|XP_016945103.1|DSUZ	0.001	PXUT.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DPER.longest_only.faa
+LOC108012472|XP_016933357.1|DSUZ	0.001	
+LOC108019388|XP_016942705.1|DSUZ	0.001	PPOL.longest_only.faa	DGRI.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	BMOR.longest_only.faa	DVIR.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	DNOV.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa
+LOC108009436|XP_016929266.1|DSUZ	0.00325	PPOL.longest_only.faa	DBIP.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108020395|XP_016944160.1|DSUZ	0.001	DSEC.longest_only.faa	DBIP.longest_only.faa	PXUT.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	AALB.longest_only.faa	DRHO.longest_only.faa	DKIK.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108021093|XP_016945106.1|DSUZ	0.001	PXUT.longest_only.faa	DPER.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DGRI.longest_only.faa	TRNI.longest_only.faa
+LOC108006627|XP_016925648.1|DSUZ	0.001	DNAV.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DGRI.longest_only.faa	DWIL.longest_only.faa	DMOJ.longest_only.faa	DNOV.longest_only.faa
+LOC108006187|XP_016925116.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021256|XP_016945364.1|DSUZ	0.001	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108019009|XP_016942114.1|DSUZ	0.001	
+LOC108021506|XP_016945748.1|DSUZ	0.001	PXUT.longest_only.faa	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa	BTAB.longest_only.faa	DMOJ.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021203|XP_016945292.1|DSUZ	0.00325	
+LOC108018971|XP_016942066.1|DSUZ	0.001	
+LOC108018118|XP_016941043.1|DSUZ	0.001	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa
+LOC108021196|XP_016945278.1|DSUZ	0.00325	
+LOC108021507|XP_016945749.1|DSUZ	0.001	DRHO.longest_only.faa	AALB.longest_only.faa	SLEB.longest_only.faa
+LOC108021666|XP_016945970.1|DSUZ	0.001	DWIL.longest_only.faa
+LOC108012285|XP_016933079.1|DSUZ	0.001	TCAS.longest_only.faa
+LOC108009512|XP_016929424.1|DSUZ	0.001	
+LOC108021043|XP_016945027.1|DSUZ	0.00325	AALB.longest_only.faa	DWIL.longest_only.faa
+LOC108021496|XP_016945728.1|DSUZ	0.001	DWIL.longest_only.faa	DPER.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa
+LOC108016756|XP_016938996.1|DSUZ	0.001	AALB.longest_only.faa	MSAC.longest_only.faa
+LOC108005081|XP_016923741.1|DSUZ	0.001	DRHO.longest_only.faa	DGRI.longest_only.faa
+LOC108021400|XP_016945592.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108005078|XP_016923726.1|DSUZ	0.001	DGRI.longest_only.faa
+LOC108021220|XP_016945309.1|DSUZ	0.00325	DBIP.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	SLEB.longest_only.faa	DOBS.longest_only.faa	DYAK.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DKIK.longest_only.faa	DEUG.longest_only.faa
+LOC108021150|XP_016945210.1|DSUZ	0.001	PPOL.longest_only.faa	PXUT.longest_only.faa	DKIK.longest_only.faa	DPLE.longest_only.faa
+LOC108016736|XP_016938965.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108014015|XP_016935515.1|DSUZ	0.00325	DMIR.longest_only.faa
+LOC108005089|XP_016923753.1|DSUZ	0.001	DGRI.longest_only.faa
+LOC108005885|XP_016924760.1|DSUZ	0.001	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108021339|XP_016945505.1|DSUZ	0.001	PPOL.longest_only.faa	PXUT.longest_only.faa	MSAC.longest_only.faa	TRNI.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AMEL.longest_only.faa	TCAS.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa
+LOC108011113|XP_016931677.1|DSUZ	0.001	DTAK.longest_only.faa
+LOC108014220|XP_016935744.1|DSUZ	0.001	
+LOC108012116|XP_016932892.1|DSUZ	0.00325	SLEB.longest_only.faa
+LOC108006895|XP_016925975.1|DSUZ	0.001	DNAV.longest_only.faa	PXUT.longest_only.faa	DARI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DGRI.longest_only.faa	ACEP.longest_only.faa	DNOV.longest_only.faa	DMOJ.longest_only.faa
+LOC108014164|XP_016935691.1|DSUZ	0.001	DMIR.longest_only.faa	NVIT.longest_only.faa
+LOC108021532|XP_016945783.1|DSUZ	0.001	DERE.longest_only.faa	DSER.longest_only.faa	AGAM.longest_only.faa	MPHA.longest_only.faa	HKAH.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	CNAS.longest_only.faa
+LOC108021441|XP_016945649.1|DSUZ	0.00325	PXUT.longest_only.faa	CNAS.longest_only.faa
+LOC108009943|XP_016930180.1|DSUZ	0.001	DRHO.longest_only.faa	DTAK.longest_only.faa	AALB.longest_only.faa
+LOC108014175|XP_016935702.1|DSUZ	0.001	
+LOC108021346|XP_016945517.1|DSUZ	0.00325	PXUT.longest_only.faa
+LOC108016483|XP_016938638.1|DSUZ	0.001	PPOL.longest_only.faa	DERE.longest_only.faa	DSER.longest_only.faa
+LOC108020987|XP_016944934.1|DSUZ	0.001	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DMIR.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108014227|XP_016935754.1|DSUZ	0.001	
+LOC108021345|XP_016945520.1|DSUZ	0.00325	TRNI.longest_only.faa
+LOC108021372|XP_016945552.1|DSUZ	0.001	
+LOC108005421|XP_016924191.1|DSUZ	0.001	
+LOC108020958|XP_016944894.1|DSUZ	0.001	AALB.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa
+LOC108021371|XP_016945551.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108019067|XP_016942201.1|DSUZ	0.00325	
+LOC108021245|XP_016945350.1|DSUZ	0.001	AALB.longest_only.faa	BTAB.longest_only.faa	HKAH.longest_only.faa
+LOC108021011|XP_016944983.1|DSUZ	0.001	AALB.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	SLEB.longest_only.faa
+LOC108020937|XP_016944858.1|DSUZ	0.00325	DNOV.longest_only.faa	TRNI.longest_only.faa
+LOC108005615|XP_016924417.1|DSUZ	0.001	MSAC.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AMEL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108007981|XP_016927252.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021006|XP_016944970.1|DSUZ	0.001	
+LOC108019745|XP_016943177.1|DSUZ	0.00325	
+LOC108009894|XP_016930106.1|DSUZ	0.001	AALB.longest_only.faa	CNAS.longest_only.faa
+LOC108018950|XP_016942045.1|DSUZ	0.001	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108004636|XP_016923077.1|DSUZ	0.001	HKAH.longest_only.faa	DOBS.longest_only.faa
+LOC108007467|XP_016926635.1|DSUZ	0.00325	AGAM.longest_only.faa	DSIM.longest_only.faa	AALB.longest_only.faa
+LOC108021559|XP_016945818.1|DSUZ	0.001	
+LOC108021248|XP_016945355.1|DSUZ	0.001	
+LOC108020992|XP_016944942.1|DSUZ	0.001	DOBS.longest_only.faa
+LOC108021344|XP_016945515.1|DSUZ	0.00325	MPHA.longest_only.faa
+LOC108005698|XP_016924517.1|DSUZ	0.001	HKAH.longest_only.faa	NVIT.longest_only.faa
+LOC108015347|XP_016937249.1|DSUZ	0.00325	DRHO.longest_only.faa
+LOC108017003|XP_016939447.1|DSUZ	0.001	
+LOC108020749|XP_016944618.1|DSUZ	0.001	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	DANA.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108021170|XP_016945240.1|DSUZ	0.00325	AALB.longest_only.faa	TRNI.longest_only.faa
+LOC108005715|XP_016924536.1|DSUZ	0.001	AALB.longest_only.faa	DSER.longest_only.faa	TRNI.longest_only.faa
+LOC108017011|XP_016939458.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108020303|XP_016943926.1|DSUZ	0.001	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa
+LOC108021210|XP_016945298.1|DSUZ	0.001	
+LOC108019425|XP_016942739.1|DSUZ	0.001	AALB.longest_only.faa	BTER.longest_only.faa
+LOC108007569|XP_016926754.1|DSUZ	0.00325	PPOL.longest_only.faa	TRNI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108021296|XP_016945432.1|DSUZ	0.001	DSER.longest_only.faa	AALB.longest_only.faa	DGRI.longest_only.faa	DOBS.longest_only.faa	NVIT.longest_only.faa
+LOC108021362|XP_016945541.1|DSUZ	0.00325	TRNI.longest_only.faa
+LOC108021467|XP_016945688.1|DSUZ	0.001	
+LOC108006420|XP_016925436.1|DSUZ	0.001	AALB.longest_only.faa	BMOR.longest_only.faa	SLEB.longest_only.faa
+LOC108010321|XP_016930721.1|DSUZ	0.001	DRHO.longest_only.faa	DPSE.longest_only.faa
+LOC108017723|XP_016940325.1|DSUZ	0.001	
+LOC108017230|XP_016939719.1|DSUZ	0.00325	AALB.longest_only.faa
+LOC108021352|XP_016945525.1|DSUZ	0.001	
+LOC108007841|XP_016927128.1|DSUZ	0.001	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108007647|XP_016926861.1|DSUZ	0.001	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021413|XP_016945614.1|DSUZ	0.001	
+LOC108021081|XP_016945087.1|DSUZ	0.001	MSAC.longest_only.faa	DGRI.longest_only.faa
+LOC108021224|XP_016945312.1|DSUZ	0.001	AALB.longest_only.faa	DWIL.longest_only.faa	CNAS.longest_only.faa	SLEB.longest_only.faa
+LOC108021125|XP_016945170.1|DSUZ	0.001	DSEC.longest_only.faa
+LOC108012845|XP_016933803.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021124|XP_016945169.1|DSUZ	0.001	DWIL.longest_only.faa	DSEC.longest_only.faa
+LOC108021226|XP_016945314.1|DSUZ	0.001	AALB.longest_only.faa	HKAH.longest_only.faa	DRHO.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108006858|XP_016925917.1|DSUZ	0.001	AALB.longest_only.faa	PXUT.longest_only.faa	DSER.longest_only.faa
+LOC108020961|XP_016944896.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021286|XP_016945414.1|DSUZ	0.001	AALB.longest_only.faa	DWIL.longest_only.faa	DSER.longest_only.faa	NVIT.longest_only.faa
+LOC108004665|XP_016923135.1|DSUZ	0.001	MSAC.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	DWIL.longest_only.faa	BTAB.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108018075|XP_016940969.1|DSUZ	0.001	AALB.longest_only.faa	DOBS.longest_only.faa	GMEL.longest_only.faa
+LOC108009756|XP_016929866.1|DSUZ	0.001	DPER.longest_only.faa	DOBS.longest_only.faa	TRNI.longest_only.faa	MSAC.longest_only.faa
+LOC108020959|XP_016944893.1|DSUZ	0.001	PPOL.longest_only.faa	PXUT.longest_only.faa	DPLE.longest_only.faa	MPHA.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	SLEB.longest_only.faa	GMEL.longest_only.faa	OBIR.longest_only.faa	TRNI.longest_only.faa
+LOC108009976|XP_016930240.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021329|XP_016945488.1|DSUZ	0.001	DGRI.longest_only.faa
+LOC108009355|XP_016929147.1|DSUZ	0.001	DBIP.longest_only.faa
+LOC108018143|XP_016941095.1|DSUZ	0.001	DBIP.longest_only.faa	DMIR.longest_only.faa	DGUA.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa
+LOC108021014|XP_016944982.1|DSUZ	0.001	DTAK.longest_only.faa	DELE.longest_only.faa	AALB.longest_only.faa	CNAS.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108011570|XP_016932232.1|DSUZ	0.001	
+LOC108005009|XP_016923636.1|DSUZ	0.001	
+LOC108006725|XP_016925760.1|DSUZ	0.001	
+LOC108021397|XP_016945586.1|DSUZ	0.001	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108021519|XP_016945765.1|DSUZ	0.001	DGRI.longest_only.faa
+LOC108021009|XP_016944975.1|DSUZ	0.001	DBIP.longest_only.faa	DPER.longest_only.faa	DKIK.longest_only.faa	TCAS.longest_only.faa	DGRI.longest_only.faa	DEUG.longest_only.faa	TRNI.longest_only.faa
+LOC108008452|XP_016927798.1|DSUZ	0.001	
+LOC108006705|XP_016925737.1|DSUZ	0.001	
+LOC108021697|XP_016946013.1|DSUZ	0.001	
+LOC108005409|XP_016924203.1|DSUZ	0.001	DRHO.longest_only.faa	DBIP.longest_only.faa	DYAK.longest_only.faa
+LOC108021732|XP_016946059.1|DSUZ	0.001	DPSE.longest_only.faa
+LOC108020892|XP_016944791.1|DSUZ	0.001	PXUT.longest_only.faa	NVIT.longest_only.faa
+LOC108005606|XP_016924407.1|DSUZ	0.001	AALB.longest_only.faa	BTAB.longest_only.faa	MSAC.longest_only.faa	DPER.longest_only.faa
+LOC108021731|XP_016946058.1|DSUZ	0.001	DANA.longest_only.faa
+LOC108021393|XP_016945579.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108010022|XP_016930312.1|DSUZ	0.001	DSER.longest_only.faa
+LOC108013151|XP_016934334.1|DSUZ	0.001	
+LOC108011896|XP_016932638.1|DSUZ	0.001	
+LOC108007103|XP_016926231.1|DSUZ	0.001	AALB.longest_only.faa	DANA.longest_only.faa	MSAC.longest_only.faa
+LOC108021645|XP_016945944.1|DSUZ	0.001	BTER.longest_only.faa	MPHA.longest_only.faa	AMEL.longest_only.faa	OBIR.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108006120|XP_016925061.1|DSUZ	0.001	HKAH.longest_only.faa
+LOC108017279|XP_016939788.1|DSUZ	0.001	DANA.longest_only.faa
+LOC108010954|XP_016931457.1|DSUZ	0.001	
+LOC108021472|XP_016945700.1|DSUZ	0.001	DBIP.longest_only.faa	HKAH.longest_only.faa	DHYD.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	ACEP.longest_only.faa	DOBS.longest_only.faa	DPER.longest_only.faa	TRNI.longest_only.faa	DYAK.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DMEL.longest_only.faa	CNAS.longest_only.faa	DGRI.longest_only.faa	DNOV.longest_only.faa	DNAV.longest_only.faa	PXUT.longest_only.faa	DTAK.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	PPOL.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DARI.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	BTAB.longest_only.faa	DEUG.longest_only.faa
+LOC108009323|XP_016929086.1|DSUZ	0.001	DSER.longest_only.faa	DGRI.longest_only.faa
+LOC108021163|XP_016945233.1|DSUZ	0.001	
+LOC108007638|XP_016926850.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108012884|XP_016933868.1|DSUZ	0.001	
+LOC108009999|XP_016930278.1|DSUZ	0.001	
+LOC108021707|XP_016946030.1|DSUZ	0.001	DGRI.longest_only.faa
+LOC108010447|XP_016930800.1|DSUZ	0.001	
+LOC108005464|XP_016924252.1|DSUZ	0.001	AALB.longest_only.faa	BTAB.longest_only.faa
+LOC108021447|XP_016945656.1|DSUZ	0.001	AALB.longest_only.faa	AMEL.longest_only.faa	DRHO.longest_only.faa	DHYD.longest_only.faa	DGRI.longest_only.faa	NVIT.longest_only.faa
+LOC108010915|XP_016931407.1|DSUZ	0.001	DRHO.longest_only.faa	DMIR.longest_only.faa	DOBS.longest_only.faa
+LOC108021332|XP_016945492.1|DSUZ	0.001	
+LOC108014688|XP_016936355.1|DSUZ	0.001	
+LOC108021142|XP_016945194.1|DSUZ	0.001	DERE.longest_only.faa	MPHA.longest_only.faa	CSOL.longest_only.faa	AALB.longest_only.faa	AGAM.longest_only.faa	AMEL.longest_only.faa	DPSE.longest_only.faa	CNAS.longest_only.faa	ACEP.longest_only.faa	OBIR.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108008153|XP_016927434.1|DSUZ	0.001	DWIL.longest_only.faa
+LOC108021576|XP_016945847.1|DSUZ	0.001	DKIK.longest_only.faa
+LOC108011330|XP_016931932.1|DSUZ	0.001	
+LOC108014616|XP_016936271.1|DSUZ	0.001	AALB.longest_only.faa	BMOR.longest_only.faa	OBIR.longest_only.faa	BTAB.longest_only.faa
+LOC108017683|XP_016940284.1|DSUZ	0.001	PPOL.longest_only.faa	DTAK.longest_only.faa	PXUT.longest_only.faa	DERE.longest_only.faa	DPLE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	TCAS.longest_only.faa	CNAS.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa
+LOC108020379|XP_016944124.1|DSUZ	0.001	
+LOC108021639|XP_016945936.1|DSUZ	0.001	MPHA.longest_only.faa	AALB.longest_only.faa	TCAS.longest_only.faa	DGUA.longest_only.faa	DGRI.longest_only.faa	OBIR.longest_only.faa
+LOC108014664|XP_016936318.1|DSUZ	0.001	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108021463|XP_016945682.1|DSUZ	0.001	DTAK.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	CSOL.longest_only.faa	TCAS.longest_only.faa	SLEB.longest_only.faa	DWIL.longest_only.faa	NVIT.longest_only.faa
+LOC108015134|XP_016936891.1|DSUZ	0.001	DRHO.longest_only.faa	OBIR.longest_only.faa
+LOC108006441|XP_016925458.1|DSUZ	0.001	AALB.longest_only.faa	DOBS.longest_only.faa
+LOC108019522|XP_016942843.1|DSUZ	0.001	DBIP.longest_only.faa	DOBS.longest_only.faa	MSAC.longest_only.faa
+LOC108011887|XP_016932626.1|DSUZ	0.001	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa	DELE.longest_only.faa
+LOC108011079|XP_016931635.1|DSUZ	0.001	
+LOC108021190|XP_016945267.1|DSUZ	0.001	TRNI.longest_only.faa
+LOC108021411|XP_016945607.1|DSUZ	0.001	MSAC.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	CNAS.longest_only.faa	TRNI.longest_only.faa
+LOC108006815|XP_016925855.1|DSUZ	0.001	BTAB.longest_only.faa	DOBS.longest_only.faa
+LOC108021268|XP_016945387.1|DSUZ	0.001	
+LOC108021470|XP_016945697.1|DSUZ	0.001	AGAM.longest_only.faa	DVIR.longest_only.faa	AALB.longest_only.faa	DSER.longest_only.faa
+LOC108021230|XP_016945325.1|DSUZ	0.001	AGAM.longest_only.faa
+LOC108005364|XP_016924108.1|DSUZ	0.001	PXUT.longest_only.faa	DOBS.longest_only.faa	CNAS.longest_only.faa
+LOC108004689|XP_016923189.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021156|XP_016945221.1|DSUZ	0.001	DSEC.longest_only.faa	DTAK.longest_only.faa	DELE.longest_only.faa	DSER.longest_only.faa	DBIA.longest_only.faa	DYAK.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DPSE.longest_only.faa	DMOJ.longest_only.faa	DOBS.longest_only.faa	DEUG.longest_only.faa
+LOC108021475|XP_016945705.1|DSUZ	0.001	DVIR.longest_only.faa	DSER.longest_only.faa	DPLE.longest_only.faa
+LOC108021231|XP_016945326.1|DSUZ	0.001	
+LOC108010903|XP_016931387.1|DSUZ	0.001	DBIP.longest_only.faa	DTAK.longest_only.faa	DSER.longest_only.faa
+LOC108021357|XP_016945530.1|DSUZ	0.001	DSER.longest_only.faa
+LOC108013420|XP_016934774.1|DSUZ	0.001	DBIP.longest_only.faa	DSER.longest_only.faa
+LOC108021410|XP_016945606.1|DSUZ	0.001	PXUT.longest_only.faa	DOBS.longest_only.faa
+LOC108008423|XP_016927763.1|DSUZ	0.001	DRHO.longest_only.faa	AALB.longest_only.faa
+LOC108009038|XP_016928512.1|DSUZ	0.001	TRNI.longest_only.faa
+LOC108021587|XP_016945865.1|DSUZ	0.001	MSAC.longest_only.faa	CSOL.longest_only.faa	DHYD.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108020182|XP_016943779.1|DSUZ	0.001	
+LOC108005517|XP_016924304.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021652|XP_016945957.1|DSUZ	0.001	
+LOC108016551|XP_016938717.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021725|XP_016946049.1|DSUZ	0.001	
+LOC108021726|XP_016946051.1|DSUZ	0.001	OBIR.longest_only.faa	SLEB.longest_only.faa
+LOC108009008|XP_016928501.1|DSUZ	0.001	
+LOC108011025|XP_016931549.1|DSUZ	0.001	
+LOC108021176|XP_016945247.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021493|XP_016945730.1|DSUZ	0.001	
+LOC108006926|XP_016926021.1|DSUZ	0.001	DELE.longest_only.faa	DKIK.longest_only.faa
+LOC108006912|XP_016926001.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108009436|XP_016929266.1|DSUZ	0.001	PPOL.longest_only.faa	DBIP.longest_only.faa	DERE.longest_only.faa	AALB.longest_only.faa	BMOR.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	TRNI.longest_only.faa	NVIT.longest_only.faa
+LOC108006187|XP_016925116.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021203|XP_016945292.1|DSUZ	0.001	
+LOC108021196|XP_016945278.1|DSUZ	0.001	
+LOC108021043|XP_016945027.1|DSUZ	0.001	AALB.longest_only.faa	DWIL.longest_only.faa
+LOC108021400|XP_016945592.1|DSUZ	0.001	AALB.longest_only.faa
+LOC108021220|XP_016945309.1|DSUZ	0.001	DBIP.longest_only.faa	DVIR.longest_only.faa	DMIR.longest_only.faa	DPSE.longest_only.faa	SLEB.longest_only.faa	DOBS.longest_only.faa	DYAK.longest_only.faa	DMEL.longest_only.faa	DGRI.longest_only.faa	DERE.longest_only.faa	DANA.longest_only.faa	DGUA.longest_only.faa	DSIM.longest_only.faa	DMOJ.longest_only.faa	DSEC.longest_only.faa	DELE.longest_only.faa	DBIA.longest_only.faa	DRHO.longest_only.faa	DBUS.longest_only.faa	DKIK.longest_only.faa	DEUG.longest_only.faa
+LOC108014015|XP_016935515.1|DSUZ	0.001	DMIR.longest_only.faa
+LOC108012116|XP_016932892.1|DSUZ	0.001	SLEB.longest_only.faa
+LOC108021441|XP_016945649.1|DSUZ	0.001	PXUT.longest_only.faa	CNAS.longest_only.faa
+LOC108021346|XP_016945517.1|DSUZ	0.001	PXUT.longest_only.faa
+LOC108021345|XP_016945520.1|DSUZ	0.001	TRNI.longest_only.faa
+LOC108019067|XP_016942201.1|DSUZ	0.001	
+LOC108020937|XP_016944858.1|DSUZ	0.001	DNOV.longest_only.faa	TRNI.longest_only.faa
+LOC108019745|XP_016943177.1|DSUZ	0.001	
+LOC108007467|XP_016926635.1|DSUZ	0.001	AGAM.longest_only.faa	DSIM.longest_only.faa	AALB.longest_only.faa
+LOC108021344|XP_016945515.1|DSUZ	0.001	MPHA.longest_only.faa
+LOC108015347|XP_016937249.1|DSUZ	0.001	DRHO.longest_only.faa
+LOC108021170|XP_016945240.1|DSUZ	0.001	AALB.longest_only.faa	TRNI.longest_only.faa
+LOC108007569|XP_016926754.1|DSUZ	0.001	PPOL.longest_only.faa	TRNI.longest_only.faa	AALB.longest_only.faa	HKAH.longest_only.faa	GMEL.longest_only.faa	BTAB.longest_only.faa	BTER.longest_only.faa	NVIT.longest_only.faa
+LOC108021362|XP_016945541.1|DSUZ	0.001	TRNI.longest_only.faa
+LOC108017230|XP_016939719.1|DSUZ	0.001	AALB.longest_only.faa

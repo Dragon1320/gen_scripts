@@ -144,3 +144,36 @@ ref: https://machinelearningmastery.com/how-to-use-correlation-to-understand-the
 - 'CFastaReader: Hyphens are invalid and will be ignored around line 12318' error again
 
 
+
+---
+
+latest in tree where not detected, see if its detected in abs
+incrasing e val for ingroup
+
+
+iqtree - ancestral seq - busco groups
+- >=2 independent dups
+- send results
+
+---
+
+- need an explanation of the qtree stuff cos im dumb
+- how did we end up with the database stuff
+- am i doing the paralog stuff correctly, cutoffs to use
+- the wednesday talks
+
+---
+
+lengths other dup AND sing
+enrichment (better groups - use database)
+take non stat sig ones as well for fastevo
+	- look how many geens have these terms assigned
+
+histogram of restriction levels
+lineage specific gene loss
+
+group fastevol
+- restricted or not
+	- restricted - denovo vs hdf
+
+

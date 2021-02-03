@@ -29,12 +29,12 @@ for fn in alignedFiles:
         sp = g[(g.rfind("|") + 1):]
 
         currSp = sp
-        
+
         if sp not in seqs:
           seqs[sp] = []
 
         continue
-      
+
       # sanity (something im lacking rn) check
       if l[0] != ">" and currSp == "":
         print("lines out of order")
