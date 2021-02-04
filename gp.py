@@ -1,96 +1,53 @@
 from gprofiler import GProfiler
 
-#
-import sqlite3
+from utils.data import get_fastevol_singletons, get_singletons, get_duplicable
+from utils.const import database_fp, orthogroups_fp
+from utils.orth import find_species_orthologs
 
-import numpy as np
-from scipy.stats import mannwhitneyu
+def strip_gene_postfix(gene):
+  stripped = gene[:(gene.find("|"))]
 
-from utils.db_init import get_db_cursor
-from utils.helpers import find_dmel_orthologs
+  return stripped
 
-# const
-kDbPath = "../drosophilaDatabase_neop"
-orthogroupPath = "../Results_Jun25/WorkingDirectory/OrthoFinder/Results_Aug27/Orthogroups/Orthogroups.txt"
+gp_species = "DMEL"
+gp_out_dir = "./out/gprofiler"
 
-#
-c = get_db_cursor(kDbPath)
+fsing = get_fastevol_singletons(database_fp)
+sing = get_singletons(database_fp)
+dup = get_duplicable(database_fp)
 
-c.execute("SELECT proxy_rate FROM processed_trees WHERE dup_status IS 'S' AND excludedReason IS NULL AND proxy_rate IS NOT NULL")
+fsing_dmel = find_species_orthologs(orthogroups_fp, fsing, gp_species)
+sing_dmel = find_species_orthologs(orthogroups_fp, sing, gp_species)
+dup_dmel = find_species_orthologs(orthogroups_fp, dup, gp_species)
 
-rates = list(map(lambda a: a["proxy_rate"], c.fetchall()))
+fsing_dmel_stripped = list(map(lambda e: strip_gene_postfix(e), fsing_dmel))
+sing_dmel_stripped = list(map(lambda e: strip_gene_postfix(e), sing_dmel))
+dup_dmel_stripped = list(map(lambda e: strip_gene_postfix(e), dup_dmel))
 
-mean = np.mean(rates)
-std = np.std(rates)
-
-cutoff = mean + std * 2
-
-c.execute("SELECT id FROM processed_trees WHERE dup_status IS 'S' AND excludedReason IS NULL AND proxy_rate IS NOT NULL AND proxy_rate > :cutoff", { "cutoff": cutoff })
-
-fastevol_suz = list(map(lambda a: a["id"], c.fetchall()))
-
-fastevol = list(map(lambda e: e[:(e.find("|"))], find_dmel_orthologs(orthogroupPath, fastevol_suz)))
-
-# print("\n".join(fastevol))
-# exit(1)
-
-print(len(fastevol))
-
-#
-background = []
-with open("../neopTranslations_forOrthofinder/DMEL.longest_only.faa") as f:
-  while True:
-    h = f.readline().strip()
-    _ = f.readline()
-
-    if h == "":
-      break
-
-    if not h.startswith(">"):
-      print("incorrect header: {}".format(h))
-      break
-
-    g = h[1:]
-    gid = g[:(g.find("|"))]
-
-    background.append(gid)
-
-#
-single = []
-
-with open("./blast_sin_01") as f:
-  while True:
-    l = f.readline().strip()
-
-    if l == "":
-      break
-
-    single.append(l)
-
-#
-other = []
-
-for bg in background:
-  if bg not in single:
-    other.append(bg)
-
-#
 gp = GProfiler(return_dataframe=True)
 
-for (genes, fname) in [(single, "single"), (fastevol, "fastevol"), (other, "other")]:
+datasets = [
+  ("fsing", fsing_dmel_stripped, False),
+  ("fsing_ns", fsing_dmel_stripped, True),
+  ("sing", sing_dmel_stripped, False),
+  ("dup", dup_dmel_stripped, False),
+]
+
+for name, data, ns in datasets:
   for i in range(0, 2):
     underr = False
+
     if i == 1:
       underr = True
-
+    
     res = gp.profile(
       query = {
-        fname: genes,
+        name: data,
       },
       organism = "dmelanogaster",
       sources = ["GO:MF", "GO:CC", "GO:BP", "KEGG", "REAC", "WP"],
       user_threshold = 0.05,
-      all_results = False,
+      all_results = ns,
       ordered = False,
       no_evidences = True,
       combined = False,
@@ -102,49 +59,5 @@ for (genes, fname) in [(single, "single"), (fastevol, "fastevol"), (other, "othe
       # background = background,
     )
 
-  res.to_csv("./out/gprofiler_{}_{}.csv".format(fname, "normal" if not underr else "underr"))
-  print(res)
-
-# res2 = gp.profile(
-#   query = {
-#     "fastevol": fastevol,
-#   },
-#   organism = "dmelanogaster",
-#   sources = ["GO:MF", "GO:CC", "GO:BP", "KEGG", "REAC", "WP"],
-#   user_threshold = 0.05,
-#   all_results = False,
-#   ordered = False,
-#   no_evidences = True,
-#   combined = False,
-#   measure_underrepresentation = False,
-#   no_iea = False,
-#   domain_scope = "annotated",
-#   numeric_namespace = "ENTREZGENE",
-#   significance_threshold_method = "fdr",
-#   # background = background,
-# )
-
-# res2.to_csv("./out/gprofiler_fastevol.csv")
-# print(res2)
-
-# res3 = gp.profile(
-#   query = {
-#     "other": other,
-#   },
-#   organism = "dmelanogaster",
-#   sources = ["GO:MF", "GO:CC", "GO:BP", "KEGG", "REAC", "WP"],
-#   user_threshold = 0.05,
-#   all_results = False,
-#   ordered = False,
-#   no_evidences = True,
-#   combined = False,
-#   measure_underrepresentation = False,
-#   no_iea = False,
-#   domain_scope = "annotated",
-#   numeric_namespace = "ENTREZGENE",
-#   significance_threshold_method = "fdr",
-#   # background = background,
-# )
-
-# res3.to_csv("./out/gprofiler_other.csv")
-# print(res3)
+    res.to_csv("{}/gp_{}_{}.csv".format(gp_out_dir, name, "normal" if not underr else "underrepresented"))
+    print(res)

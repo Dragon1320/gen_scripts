@@ -1,40 +1,55 @@
-from os import listdir
-from os.path import isfile, join
+from scipy.stats import mannwhitneyu
+from matplotlib import pyplot as plt
 
-from utils.db_init import get_db_cursor
+from utils.data import get_fastevol_singletons, get_singletons, get_duplicable
+from utils.const import translation_fasta_dir, database_fp
+from utils.fasta import read_fasta
 
-# const
-kDbPath = "../drosophilaDatabase_neop"
-outFile = "./out/lengths.txt"
-focalSpeciesFastaFile = "../neopTranslations_forOrthofinder/DSUZ.longest_only.faa"
+def get_gene_lengths(gene_ids, fasta_file):
+  lengths = []
 
-# setup
-c = get_db_cursor(kDbPath)
+  for id in gene_ids:
+    gene_seq = fasta_file.get(id)
 
-# script
-c.execute("SELECT id FROM processed_trees WHERE (dup_status IS 'S' OR dup_status IS 'D') AND excludedReason IS NULL")
+    if gene_seq == None:
+      # debug - print anything thats in the database but not in the fasta file
+      print(id)
+      continue
 
-focalSpeciesGenes = list(map(lambda entry: entry["id"], c.fetchall()))
+    lengths.append(len(gene_seq))
 
-outFile = open(outFile, "w+")
-outFile.write("{}\t{}\n".format("GeneID", "GeneLength"))
+  return lengths
 
-with open(focalSpeciesFastaFile) as file:
-  while True:
-    (header, gene) = (file.readline().strip(), file.readline().strip())
+# dup vs sing, sing vs fsing, dup vs fsing
+dsuz_fasta_fp = "{}/DSUZ.longest_only.faa".format(translation_fasta_dir)
+out_plt_fp = "./out/plots/plt_lengths.png"
 
-    if header == "":
-      break
+dsuz_fasta = read_fasta(dsuz_fasta_fp)
 
-    # header validation
-    if header[:1] != ">":
-      raise Exception("expected fasta header '>', instead found {}".format(header[:1]))
+fsing = get_fastevol_singletons(database_fp)
+sing = get_singletons(database_fp)
+dup = get_duplicable(database_fp)
 
-    for focalSpeciesGene in focalSpeciesGenes:
-      if header[1:] != focalSpeciesGene:
-        continue
+fsing_len = get_gene_lengths(fsing, dsuz_fasta)
+sing_len = get_gene_lengths(sing, dsuz_fasta)
+dup_len = get_gene_lengths(dup, dsuz_fasta)
 
-      outFile.write("{}\t{}\n".format(focalSpeciesGene, len(gene)))
+dup_v_sing = mannwhitneyu(dup_len, sing_len, alternative = "two-sided")
+sing_v_fsing = mannwhitneyu(sing_len, fsing_len, alternative = "two-sided")
+dup_v_fsing = mannwhitneyu(dup_len, fsing_len, alternative = "two-sided")
 
+print("dup_v_sing: {}\n".format(dup_v_sing))
+print("sing_v_fsing: {}\n".format(sing_v_fsing))
+print("dup_v_fsing: {}\n".format(dup_v_fsing))
 
-outFile.close()
+# plot
+# TODO: that plot thing zoe had in her presentation
+fig, ax = plt.subplots()
+
+ax.set_ylabel("lengths")
+ax.set_xlabel("group")
+ax.set_xticklabels(["dup", "sing", "fsing"])
+
+ax.boxplot([dup_len, sing_len, fsing_len])
+
+plt.savefig(out_plt_fp)
