@@ -18,12 +18,16 @@ All the script outputs.
 - /absense
 - /gprofiler
 - /plots
+- busco_groups.txt
+- (absense_example.png - temp)
 - (paralogs.txt - temp)
 
 ## scripts
 
 All the scripts.
 
+- **busco**
+  - Find all BUSCO Orthogroups
 - **gp**
   - Runs GProfiler (fastevo, singleton, duplicable)
 - **lengths**

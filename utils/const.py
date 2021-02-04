@@ -7,10 +7,10 @@ ingroup_sp = [
   "DSEC",
   "DERE",
   "DYAK",
-  "DEUG",
-  "DTAK",
-  "DSUZ",
-  "DBIA",
+  # "DEUG",
+  # "DTAK",
+  # "DSUZ",
+  # "DBIA",
 ]
 
 database_fp = "./data/drosophilaDatabase_neop"
