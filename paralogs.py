@@ -42,7 +42,7 @@ def filter_paralogs(blast_entries, cutoff):
 
 # ik i can make a utility fn for this, i will at some point (probably)
 fsing_entries = []
-# sing_entries = []
+sing_entries = []
 
 # debug
 # entries.append([{
@@ -71,22 +71,22 @@ for gene in fsing:
 # exit(1)
 
 # test with 100 first (before commiting probs an hour to run this)
-# sing = get_singletons(database_fp)[:100]
-# print(len(sing))
+sing = get_singletons(database_fp)[:100]
+print(len(sing))
 
-# for gene in sing:
-#   (paralogs, paralog_sp) = find_paralogs(gene)
+for gene in sing:
+  (paralogs, paralog_sp) = find_paralogs(gene)
 
-#   if paralog_sp > 0:
-#     sing_entries.append(paralogs)
+  if paralog_sp > 0:
+    sing_entries.append(paralogs)
 
-#   print(paralogs, paralog_sp)
+  print(paralogs, paralog_sp)
 
 data_x = []
 data_y = []
 colours = []
 
-for i in reversed(range(0, 50)):
+for i in reversed(range(0, 20)):
   cutoff = 10 ** -i
 
   for entry in fsing_entries:
@@ -98,14 +98,14 @@ for i in reversed(range(0, 50)):
     colours.append("#ff000077")
     # colours.append("#0000ff77")
 
-  # for entry in sing_entries:
-  #   paralogs = filter_paralogs(entry, cutoff)
-  #   paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
+  for entry in sing_entries:
+    paralogs = filter_paralogs(entry, cutoff)
+    paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
 
-  #   data_x.append(cutoff)
-  #   data_y.append(len(paralog_sp))
-  #   # colours.append("#ff000077")
-  #   colours.append("#0000ff77")
+    data_x.append(cutoff)
+    data_y.append(len(paralog_sp))
+    # colours.append("#ff000077")
+    colours.append("#0000ff77")
 
 weird_ones = []
 
