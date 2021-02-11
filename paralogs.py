@@ -10,7 +10,7 @@ out_plt_fp = "./out/plots/plt_paralogs.png"
 
 # paralong if: has non self hits at some e value cutoff
 def find_paralogs(gene):
-  orthologs = find_gene_orthologs(orthogroups_fp, gene)
+  orthologs = find_gene_orthologs(database_fp, gene)
   ingroup_orthologs = list(filter(lambda e: gene_to_sp(e) in ingroup_sp, orthologs))
 
   paralogs = []
@@ -107,29 +107,29 @@ for i in reversed(range(0, 20)):
     # colours.append("#ff000077")
     colours.append("#0000ff77")
 
-weird_ones = []
+# weird_ones = []
 
-cutoff = 1e-10
+# cutoff = 1e-10
 
-for entry in fsing_entries:
-  for hit in entry:
-    if hit["e"] < cutoff:
-      weird_ones.append(hit)
+# for entry in fsing_entries:
+#   for hit in entry:
+#     if hit["e"] < cutoff:
+#       weird_ones.append(hit)
 
-f = open("./out/paralogs.txt", "w+")
+# f = open("./out/paralogs.txt", "w+")
 
 # species, query, subject, orthogroup (query), orthogroup (subject), e-val
-for w in weird_ones:
-  species = kv_lookup(sp_ids_fp, w["query"].split("_")[0])
-  query = kv_lookup(gene_ids_fp, w["query"])
-  subject = kv_lookup(gene_ids_fp, w["subject"])
-  orth_q = find_gene_orthogroup(orthogroups_fp, query)
-  orth_s = find_gene_orthogroup(orthogroups_fp, subject)
-  e = w["e"]
+# for w in weird_ones:
+#   species = kv_lookup(sp_ids_fp, w["query"].split("_")[0])
+#   query = kv_lookup(gene_ids_fp, w["query"])
+#   subject = kv_lookup(gene_ids_fp, w["subject"])
+#   orth_q = find_gene_orthogroup(orthogroups_fp, query)
+#   orth_s = find_gene_orthogroup(orthogroups_fp, subject)
+#   e = w["e"]
 
-  f.write("{}\t{}\t{}\t{}\t{}\t{}\n".format(species, query, subject, orth_q, orth_s, e))
+#   f.write("{}\t{}\t{}\t{}\t{}\t{}\n".format(species, query, subject, orth_q, orth_s, e))
 
-f.close()
+# f.close()
 
 # plot
 plt.ylabel("num species")

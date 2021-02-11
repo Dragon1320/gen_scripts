@@ -176,4 +176,44 @@ group fastevol
 - restricted or not
 	- restricted - denovo vs hdf
 
+---
+
+- finish len graph
+	- mostly done - needs title? (add after?), better labels
+- fix paralog script
+	- there doesnt seem to be any issues with it?
+	- is it that weird orthofinder stuff?
+- go through all denovo genes
+	- some especially interesting ones:
+		- LOC108005300
+		- LOC108008871
+		- LOC108016569
+		- LOC108019732
+- make presence/absence trees nice
+- read through absense paper and make sure ik how to handle thingy
+- better way to visualise gprofiler results
+	- ensembl biomart?
+- better way to visualise paralog results
+	- id go for a heatmap like thing but we have 2 datasets...
+- make sure ik what im doing with paralog absense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -5,7 +5,7 @@ from Bio import Phylo
 from numpy import arange
 from matplotlib import pyplot as plt
 
-from utils.const import species_tree, database_fp, orthogroups_fp
+from utils.const import species_tree, database_fp, orthogroups_fp, database_fp, species_tree_fp
 from utils.data import get_fastevol_singletons
 from utils.orth import find_gene_orthologs
 from utils.misc import gene_to_sp
@@ -48,9 +48,9 @@ data = []
 
 for gene in fsing:
   # instantiate the tree every time to remove any colouring
-  tree = Phylo.read(StringIO(species_tree), "newick")
+  tree = Phylo.read(species_tree_fp, "phyloxml")
 
-  orth = find_gene_orthologs(orthogroups_fp, gene)
+  orth = find_gene_orthologs(database_fp, gene)
 
   if len(orth) == 0:
     # TODO: ask what to do about this - theres orthogroups with only a single gene
@@ -108,7 +108,12 @@ for gene in fsing:
   # debug
   if len(outside_sp) - undet_sp >= 2:
     # thisll give an error the first time (on a machine without an display anyway) but thats fiiiiiine
-    Phylo.draw(tree)
+    Phylo.draw(tree, branch_labels = lambda a: None)
+    
+    # plt.gca().invert_yaxis()
+    fig = plt.gcf()
+    fig.set_size_inches(10, 10)
+
     plt.savefig("./out/trees/tree_test_{}.png".format(gene[:gene.find("|")]))
 
   # print("{}: {} - {}".format(gene, lowest_path, list(map(lambda e: e[0], filter(lambda e: float(e[1]) >= 0.5, undet_probs)))))
@@ -118,8 +123,8 @@ for gene in fsing:
 plt.clf()
 
 # plot
-plt.ylabel("num genes")
-plt.xlabel("restriction")
+plt.ylabel("gene count")
+plt.xlabel("restriction level")
 plt.xticks(arange(12))
 
 plt.hist(data, bins = arange(13), align = "left", edgecolor = "gray")
