@@ -2,7 +2,7 @@ from os import listdir
 from os.path import isfile, join
 
 alignedFp = "./aligned"
-outfileFp = "./infile"
+outfileFp = "../../out/infile"
 
 alignedFiles = []
 

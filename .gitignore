@@ -139,3 +139,8 @@ cython_debug/
 
 # extra
 data/blast/*
+data/alignments/*
+data/iqtree/*
+data/iqtree2/*
+data/iqtree3/*
+tmp

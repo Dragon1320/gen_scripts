@@ -1,4 +1,8 @@
+import seaborn as sns
+import pandas as pd
+from numpy import arange, zeros
 from matplotlib import pyplot as plt
+import matplotlib.ticker as ticker
 
 from utils.misc import kv_lookup, vk_lookup, gene_to_sp
 from utils.const import blast_file_dir, ingroup_sp, orthogroups_fp, gene_ids_fp, sp_ids_fp, database_fp
@@ -44,8 +48,8 @@ def filter_paralogs(blast_entries, cutoff):
 fsing_entries = []
 sing_entries = []
 
-# debug
-# entries.append([{
+# # debug
+# fsing_entries.append([{
 #   "query": "0_1",
 #   "e": 1e-40,
 # },{
@@ -82,30 +86,183 @@ for gene in sing:
 
   print(paralogs, paralog_sp)
 
-data_x = []
-data_y = []
-colours = []
+# graphs
+# data_fsing = []
+# data_sing = []
 
-for i in reversed(range(0, 20)):
+x_size = 20
+y_size = 10
+
+df_fsing = pd.DataFrame(zeros((y_size, x_size)))
+df_sing = pd.DataFrame(zeros((y_size, x_size)))
+
+# data = [[0 for i in range(x_size)] for j in range(y_size)]
+
+for i in reversed(range(0, x_size)):
   cutoff = 10 ** -i
 
   for entry in fsing_entries:
     paralogs = filter_paralogs(entry, cutoff)
     paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
 
-    data_x.append(cutoff)
-    data_y.append(len(paralog_sp))
-    colours.append("#ff000077")
-    # colours.append("#0000ff77")
+    df_fsing[i][len(paralog_sp)] += 1
 
   for entry in sing_entries:
     paralogs = filter_paralogs(entry, cutoff)
     paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
 
-    data_x.append(cutoff)
-    data_y.append(len(paralog_sp))
-    # colours.append("#ff000077")
-    colours.append("#0000ff77")
+    df_sing[i][len(paralog_sp)] += 1
+
+vmin = min(df_fsing.values.min(), df_sing.values.min())
+vmax = max(df_fsing.values.max(), df_sing.values.max())
+
+# heatmap
+plt.ylabel("num species")
+plt.xlabel("cutoff")
+
+# plt.ylim(bottom = -0.5, top = 9.5)
+# plt.xlim(right = 19.5)
+
+# plt.gca().invert_xaxis()
+# plt.gca().invert_yaxis()
+
+# plt.xscale("log")
+# plt.scatter(data_x, data_y, color = colours)
+
+# plt.imshow(data, cmap = "hot", interpolation = "nearest")
+
+fig, axs = plt.subplots(ncols = 3, gridspec_kw = dict(width_ratios = [2, 2, 0.1]))
+
+fig.set_size_inches(16, 7)
+
+# axs[0].ylabel("non-self hits", fontsize = 16, labelpad = 20)
+# axs[0].xlabel("e-value cutoff", fontsize = 16, labelpad = 20)
+
+sns.heatmap(df_fsing, cmap = plt.cm.Blues, cbar = False, ax = axs[0], vmin = vmin)
+sns.heatmap(df_sing, cmap = plt.cm.Blues, cbar = False, yticklabels = False, ax = axs[1], vmax = vmax)
+
+fig.colorbar(axs[1].collections[0], cax = axs[2])
+
+# axs[0].set_ylim(bottom = -0.5, top = 9.5)
+# axs[0].set_xlim(right = 19.5)
+axs[0].invert_xaxis()
+axs[0].invert_yaxis()
+axs[0].set_title("fast-evolving singletons", fontsize = 16, pad = 20)
+axs[0].tick_params(axis = "both", which = "major", labelsize = 12)
+
+ticks = []
+
+for tick in axs[0].get_xticklabels():
+  ticks.append("{}{}".format("" if tick.get_text() == "0" else "-", tick.get_text()))
+
+axs[0].set_xticklabels(ticks)
+
+axs[0].locator_params(axis = "x", nbins = 10)
+
+# axs[1].set_ylim(bottom = -0.5, top = 9.5)
+# axs[1].set_xlim(right = 19.5)
+axs[1].invert_xaxis()
+axs[1].invert_yaxis()
+axs[1].set_title("other singletons", fontsize = 16, pad = 20)
+axs[1].tick_params(axis = "both", which = "major", labelsize = 13)
+
+ticks = []
+
+for tick in axs[1].get_xticklabels():
+  ticks.append("{}{}".format("" if tick.get_text() == "0" else "-", tick.get_text()))
+
+axs[1].set_xticklabels(ticks)
+
+axs[1].locator_params(axis = "x", nbins = 10)
+
+axs[2].tick_params(axis = "both", which = "major", labelsize = 12)
+axs[2].get_yaxis().set_major_locator(ticker.MaxNLocator(integer = True))
+
+fig.add_subplot(111, frameon = False, label = "a")
+plt.tick_params(labelcolor = "none", top = False, bottom = False, left = False, right = False)
+plt.grid(False)
+plt.xlabel("e-value cutoff (log scale)", fontsize = 16, labelpad = 20)
+plt.ylabel("species count (non-self)", fontsize = 16, labelpad = 20)
+
+fig.add_subplot(111, frameon = False, label = "bottom")
+plt.tick_params(labelcolor = "none", top = False, bottom = False, left = False, right = False)
+plt.grid(False)
+plt.gca().yaxis.set_label_position("right")
+plt.ylabel("hit count", fontsize = 16, labelpad = 50)
+
+plt.savefig(out_plt_fp)
+
+# reset plot
+# plt.clf()
+
+# old...
+
+# f = open("./temp.txt", "w+")
+
+# for entry in (fsing_entries + sing_entries):
+#   paralogs = filter_paralogs(entry, 1e-10)
+
+#   for paralog in paralogs:
+#     # species, query, subject, og, e
+#     f.write("{}\t{}\t{}\t{}\t{}\n".format(
+#       kv_lookup(sp_ids_fp, paralog["query"].split("_")[0]),
+#       kv_lookup(gene_ids_fp, paralog["query"]),
+#       kv_lookup(gene_ids_fp, paralog["subject"]),
+#       find_gene_orthogroup(database_fp, kv_lookup(gene_ids_fp, paralog["query"])),
+#       paralog["e"],
+#     ))
+
+# f.close()
+
+# exit(1)
+
+# for i in [21, 16, 11, 6, 1]:
+#   cutoff = 10 ** -i
+
+#   for entry in fsing_entries:
+#     print()
+
+#     paralogs = filter_paralogs(entry, cutoff)
+#     paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
+
+#     data_fsing.append(len(paralog_sp))
+
+#   for entry in sing_entries:
+#     paralogs = filter_paralogs(entry, cutoff)
+#     paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
+
+#     data_sing.append(len(paralog_sp))
+
+#   plt.ylim(top = 10)
+#   plt.hist([data_fsing, data_sing], color = ["red", "blue"], bins = arange(6), edgecolor = "gray")
+
+#   plt.savefig("./out/plots/plt_paralogs_{}.png".format(i))
+
+# # old graphs
+# data_x = []
+# data_y = []
+# colours = []
+
+# for i in reversed(range(0, 20)):
+#   cutoff = 10 ** -i
+
+#   for entry in fsing_entries:
+#     paralogs = filter_paralogs(entry, cutoff)
+#     paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
+
+#     data_x.append(cutoff)
+#     data_y.append(len(paralog_sp))
+#     colours.append("#ff000077")
+#     # colours.append("#0000ff77")
+
+  # for entry in sing_entries:
+  #   paralogs = filter_paralogs(entry, cutoff)
+  #   paralog_sp = list(set(map(lambda e: e["query"].split("_")[0], paralogs)))
+
+  #   data_x.append(cutoff)
+  #   data_y.append(len(paralog_sp))
+  #   # colours.append("#ff000077")
+  #   colours.append("#0000ff77")
 
 # weird_ones = []
 
@@ -131,14 +288,12 @@ for i in reversed(range(0, 20)):
 
 # f.close()
 
-# plot
-plt.ylabel("num species")
-plt.xlabel("cutoff")
+# # plot
+# plt.ylabel("num species")
+# plt.xlabel("cutoff")
 
-plt.xscale("log")
+# plt.xscale("log")
 
-plt.scatter(data_x, data_y, color = colours)
+# plt.scatter(data_x, data_y, color = colours)
 
-plt.savefig(out_plt_fp)
-
-print(data_x, data_y)
+# plt.savefig("{}_b.png".format(out_plt_fp))

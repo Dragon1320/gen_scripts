@@ -1,7 +1,7 @@
-abSENSE analysis run on 12.17.2020_14.31
-Input bitscore file: ../gen_scripts/absense/bitscores.txt
-Input distance file: ../gen_scripts/absense/distances.txt
-Gene length file: ../gen_scripts/absense/lengths.txt
+abSENSE analysis run on 03.09.2021_00.08
+Input bitscore file: ./data/bitscores.txt
+Input distance file: ./data/distances.txt
+Gene length file: ./data/lengths.txt
 Database length (for all species): 8000000.0 (default)
 Species used in fit: All (default)
 E-value threshold: 0.001 (default)

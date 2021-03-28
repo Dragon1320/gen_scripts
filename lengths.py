@@ -34,6 +34,8 @@ fsing = get_fastevol_singletons(database_fp)
 sing = get_singletons(database_fp)
 dup = get_duplicable(database_fp)
 
+print(len(fsing), len(sing), len(dup))
+
 fsing_len = get_gene_lengths(fsing, dsuz_fasta)
 sing_len = get_gene_lengths(sing, dsuz_fasta)
 dup_len = get_gene_lengths(dup, dsuz_fasta)
@@ -47,20 +49,27 @@ print("sing_v_fsing: {}\n".format(sing_v_fsing))
 print("dup_v_fsing: {}\n".format(dup_v_fsing))
 
 # plot
-# TODO: that plot thing zoe had in her presentation
 fig, ax = plt.subplots()
 
+fig.set_size_inches(10, 10)
+
 ax.set_ylim(top = 5000)
-ax.set_ylabel("gene length")
+ax.set_xlim(left = 0.5, right = 4)
+ax.set_ylabel("gene length", fontsize = 16, labelpad = 20)
+ax.set_xlabel("duplicability", fontsize = 16, labelpad = 20)
+ax.tick_params(axis = "both", which = "major", labelsize = 12)
 # ax.set_xlabel("group", fontsize = 11, fontweight = "bold")
 # ax.set_xticks(["dup", "sing", "fsing"])
-ax.set_xticklabels(["duplicable", "singleton", "fast-evolving singleton"])
+ax.set_xticklabels(["duplicate", "singleton", "fast-evolving singleton"])
 
-ax.hlines([4000, 4000, 4500], [1, 2.05, 1], [1.95, 3, 3])
-ax.text(1.5, 4100, "p={}".format(round_e(dup_v_sing[1])), horizontalalignment = "center", fontsize = 8)
-ax.text(2.5, 4100, "p={}".format(round_e(sing_v_fsing[1])), horizontalalignment = "center", fontsize = 8)
-ax.text(2, 4600, "p={}".format(round_e(dup_v_fsing[1])), horizontalalignment = "center", fontsize = 8)
+ax.hlines([4000, 4000, 4500], [1, 2.05, 1], [1.95, 3, 3], color = "black")
+ax.text(1.5, 4100, "p={}".format(round_e(dup_v_sing[1])), horizontalalignment = "center", fontsize = 12)
+ax.text(2.5, 4100, "p={}".format(round_e(sing_v_fsing[1])), horizontalalignment = "center", fontsize = 12)
+ax.text(2, 4600, "p={}".format(round_e(dup_v_fsing[1])), horizontalalignment = "center", fontsize = 12)
 
-ax.boxplot([dup_len, sing_len, fsing_len])
+bp = ax.boxplot([dup_len, sing_len, fsing_len], showmeans = True, meanline = True)
+
+ax.legend([bp["medians"][0], bp["means"][0]], ["median", "mean"], fontsize = 12)
+# fig.subplots_adjust(right = 1)
 
 plt.savefig(out_plt_fp)
